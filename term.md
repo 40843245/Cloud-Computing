@@ -13,3 +13,14 @@
 12. multi-tenant (n.) 多租戶技術
 13. model (n.) 模型
 14. multi-tenant model (n.) 多租戶技術模板
+15. virtual  (adj.) 虛擬的
+16. dynamically (adv.) 動態地
+17. consumer (n.) 消費者(只要只有消耗的人)
+18. demand (n.) 需求
+19. a sense of (ph.) 有一種感覺
+20. elasticity (n.) 靈活性
+21. release (v.) (有很多意思) 釋放；發行；發放；發起 (=launch)
+22. Measured service (n.) 可測量的服務
+23. metering (n.) 測量泵
+24. utilize (v.) 利用
+25. 
