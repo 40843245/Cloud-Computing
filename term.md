@@ -31,36 +31,39 @@
 30. prescribe (v.) 開藥；法律規定
 31. constrain (v.) 約束；限制
 32. service delivery (n.) 服務交付
-33. ubiquitous (adj.) 到處可見的
-34. On-demand (adj.) 一經要求可得的
-35. Provision (n.) 遠見
-36. configurable (adj.) 可配置的，可設定的
-37. unilaterally (adj.) 單方面的
-38. interaction (n.) 互動，交流
-39. Broad (adj.) 廣泛的
-40. heterogeneous (adj.) 異類的
-41. characteristics (n.) 特性
-42. self-service (n.) 自助服務 (注意不是自己服務)
-43. Resource pooling (n.) 資源分享處
-44. multi-tenant (n.) 多租戶技術 
-45. model (n.) 模型
-46. multi-tenant model (n.) 多租戶技術模板
-47. virtual  (adj.) 虛擬的
-48. dynamically (adv.) 動態地
-49. consumer (n.) 消費者(只要只有消耗的人)
-50. demand (n.) 需求
-51. a sense of (ph.) 有一種感覺
-52. elasticity (n.) 靈活性
-53. release (v.) (有很多意思) 釋放；發行；發放；發起 (=launch)
-54. Measured service (n.) 可測量的服務
-55. metering (n.) 測量泵
-56. utilize (v.) 利用
-57. Software as a Service (SAAS)(n.) 軟體即服務
-58. infrastructure (n.) 內建設施
-59. web-based (adj.) 網頁為基礎的
-60. email (n.) 電子郵件
-61. a program interface (n.) 程式介面
-62. underlying (adj.) 底層的
-63. Platform as a Service (PAAS) (n.) 平台即服務
-64. deploy (v.) 有效運用
-65. consumer-created (adj.) 使用者所創造的
+33. business operation (n.) 企業營運
+34. Audience (n.) 讀者 (註:在專業領域的論文上，要看這篇論文的讀者統稱 Audience。)
+35. adopt (v.) 選擇使用：選擇接納
+36. ubiquitous (adj.) 到處可見的
+37. On-demand (adj.) 一經要求可得的
+38. Provision (n.) 遠見
+39. configurable (adj.) 可配置的，可設定的
+40. unilaterally (adj.) 單方面的
+41. interaction (n.) 互動，交流
+42. Broad (adj.) 廣泛的
+43. heterogeneous (adj.) 異類的
+44. characteristics (n.) 特性
+45. self-service (n.) 自助服務 (注意不是自己服務)
+46. Resource pooling (n.) 資源分享處
+47. multi-tenant (n.) 多租戶技術 
+48. model (n.) 模型
+49. multi-tenant model (n.) 多租戶技術模板
+50. virtual  (adj.) 虛擬的
+51. dynamically (adv.) 動態地
+52. consumer (n.) 消費者(只要只有消耗的人)
+53. demand (n.) 需求
+54. a sense of (ph.) 有一種感覺
+55. elasticity (n.) 靈活性
+56. release (v.) (有很多意思) 釋放；發行；發放；發起 (=launch)
+57. Measured service (n.) 可測量的服務
+58. metering (n.) 測量泵
+59. utilize (v.) 利用
+60. Software as a Service (SAAS)(n.) 軟體即服務
+61. infrastructure (n.) 內建設施
+62. web-based (adj.) 網頁為基礎的
+63. email (n.) 電子郵件
+64. a program interface (n.) 程式介面
+65. underlying (adj.) 底層的
+66. Platform as a Service (PAAS) (n.) 平台即服務
+67. deploy (v.) 有效運用
+68. consumer-created (adj.) 使用者所創造的
