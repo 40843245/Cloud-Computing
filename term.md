@@ -23,4 +23,4 @@
 22. Measured service (n.) 可測量的服務
 23. metering (n.) 測量泵
 24. utilize (v.) 利用
-25. 
+25. Software as a Service (n.) 軟體即服務
