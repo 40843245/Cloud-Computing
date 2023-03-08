@@ -74,3 +74,6 @@
 73. Platform as a Service (PAAS) (n.) 平台即服務
 74. deploy (v.) 有效運用
 75. consumer-created (adj.) 使用者所創造的
+76. Chief Information Officer (CIO) (n.) 最高情報責任者
+77. US government (USG) (n.) 美國政府
+78. 
