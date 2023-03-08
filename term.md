@@ -76,4 +76,21 @@
 75. consumer-created (adj.) 使用者所創造的
 76. Chief Information Officer (CIO) (n.) 最高情報責任者
 77. US government (USG) (n.) 美國政府
-78. 
+78. Cloud Computing Target Business Use Cases Working Group
+79. Cloud Computing Reference Architecture and Taxonomy Working Group
+80. Cloud Computing Standards Roadmap Working Group
+81. Cloud Computing SAJACC Working Group 
+82. Cloud Computing Security Working Group
+83. organize (v.) 組織
+84. section (n.) 區段；一節
+85. list (v.) 列出
+86. major actors (n.) 主要角色
+87. drill down the details (ph.) 詳細地提到細節
+88. appendix (n.) 附錄
+89. term (n.) 專業術語
+90. acronyms (n.) 首字母縮寫
+91. function (n.) 功能 
+92. party (n.) 方；特定群組
+93. 
+94. 
+
