@@ -97,10 +97,96 @@
 96. cloud bursting (n.) 雲端爆裂
 97. load balancing (n.) 負載平衡
 98. clouds (n.) 雲端
+99. preclude (v.) 排除
+100. Cloud Consumer (n.) 雲端使用者
+101. Cloud Provider (n.) 雲端提供服務者
+102. Cloud Auditor (n.) 雲端監察會
+103. Cloud Broker (n.) 雲端代理商
+104. Cloud Carrier (n.) 雲端運營商
+105. intermediary (n.) 仲介
+106. service level agreements (SLA) (n.) 雲端服務條款 (這裡意指:使用雲端前所簽訂的服務條款)
+107. Customer Relationship Management (CRM) (n.) 客戶關係管理
+108. Customer Data Management (CDM) (n.) 客戶資料管理
+109. Content Delivery Network (CDN) (n.) 內容運送網路 
+110. Business Intelligence (n.) 商業智慧
+111. billing (n.) 付款
+112. Content Management (n.) 內容管理
+113. sales (n.) 銷售
+114. Document Management (n.) 文件管理
+115. Service Intermediation (n.) 服務仲介
+116. Service Aggregation (n.) 服務聚合
+117. Service Arbitrage (n.) 服務套利
+118. fixed (adj.) 固定的
+119. a credit-scoring service (n.) 信用評分服務
+120. with the best score (phr.) 評分最高
+121. telecommunication (n.) 電信
+122. mobile Internet devices (MIDs) (n.) 移動互聯網設備
+123. transport agent (n.) 運輸代理商
+124. scope (n.) 範疇
+125. stack notation (n.) 堆疊表示法
+126. comprise of n. (v.) 由n.組成
+127. middleware (n.) 中間軟體 (=middle +software)
+128. analysis (n.) 分析
+129. delineation (n.) 劃分
+130. control (n.) 控制權
+131. application stack (n.) 應用程式堆疊
+132. building blocks (n.) 積木
+133. diverse (adj.) 不同的
+134. pool (n.) 池，瀑
+135. computational resources (n.) 計算資源
+136. on-site (adj.) 現場的
+137. angling (n.) 釣魚
+138. resource abstraction (n.) 資源抽象化
+139. control layer (n.) 控制層
+140. software abstraction (n.) 軟體抽象化
+141. hypervisor (n.) 虛擬機器管理程式
+142. virtual data storage (n.) 虛擬資料儲存
+143. fabric (n.) 織物 (在這裡意指組成某東西的主要元件) (P.S. See the PS.2)
 
-cloud bursting for load balancing between clouds (譯:雲端間的負載不平衡)
+## PS.1
 
-See the description on the figure in the following link.
+The word cloud bursting is shown in the figure of the following link.
 
 https://github.com/40843245/Cloud-Computing/blob/main/NIST_term1.png
+
+The sentencce
+    cloud bursting for load balancing between clouds 
+
+
+means 
+
+    (譯:雲端間的負載不平衡)
+
+## PS.2
+
+The word software fabric is shown in the figure of the following link.
+
+https://github.com/40843245/Cloud-Computing/blob/main/NIST_term2.png
+
+In the paragraph.
+
+    The control aspect of this layer
+    refers to the software components that are responsible for resource allocation, access control, and usage
+    monitoring. This is the software fabric that ties together the numerous underlying physical resources and
+    their software abstractions to enable resource pooling, dynamic allocation, and measured service.
+    
+The sentence 
+  
+    This is the software fabric that ties together the numerous underlying physical resources and
+    their software abstractions to enable resource pooling, dynamic allocation, and measured service
+    
+tells us that 
+
+    The control aspect of this layer is a vital things that can ties together ... 
+
+
+
+
+For more information about fabric computing, visit the link.
+
+https://en.wikipedia.org/wiki/Fabric_computing
+
+
+ 
+
 
