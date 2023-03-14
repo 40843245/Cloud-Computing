@@ -1,4 +1,5 @@
 # Term
+## Part 1 
 1. Publication (n.) 發行 (文件的發行)
 2. Special Publication (n.) 專業版的發行
 3. Department (n.) 部門 (註:其實它的意思很多)
@@ -168,9 +169,9 @@
 167. business imperatives (n.) 業務要求
 168. pose (v.) 暴露(危險)
 169. challenge (n.) 挑戰
-# PS (More explanations about terms)
 
-## PS.1
+## PS (More explanations about terms)
+### PS.1
 
 The word cloud bursting is shown in the figure of the following link.
 
@@ -185,7 +186,7 @@ means
 
     (譯:雲端間的負載不平衡)
 
-## PS.2
+### PS.2
 
 The word software fabric is shown in the figure of the following link.
 
@@ -215,7 +216,7 @@ For more information about fabric computing, visit the link.
 https://en.wikipedia.org/wiki/Fabric_computing
 
 
-## PS.3
+### PS.3
 
 The following sentence is shown in the figure of the following link.
 
@@ -223,7 +224,7 @@ The following sentence is shown in the figure of the following link.
     
 https://github.com/40843245/Cloud-Computing/blob/main/NIST_term3.png    
 
-## PS.4
+### PS.4
 
 More details about Qos, visit the link.
 
@@ -233,7 +234,7 @@ The Microsoft Qos Policy is shown on the following link.
 
 https://learn.microsoft.com/en-us/windows-server/networking/technologies/qos/qos-policy-top
 
-## PS.5
+### PS.5
 About the term Data portability, it is hard to translate it into chinese word precisely.
 
 It can be translate into 
@@ -256,7 +257,7 @@ In general, the word refers
         
         the ability to port the data from one device to other device.
 
-## PS.6
+### PS.6
 About the word Service interoperability, it is hard to translate it into chinese word precisely.
 
 It can be translate into 
@@ -278,7 +279,7 @@ In general, the word refers
         
         the ability to use the program, process or task etc from one system to another system which is related to service.      
         
-## PS.7
+### PS.7
 About the word System portability, it is hard to translate it into chinese word precisely.
 
 It can be translate into 
@@ -296,3 +297,5 @@ From the NIST article,
     System portability allows the migration of a fully-stopped virtual machine instance or a machine image from one
     provider to another provider, or migrate applications and services and their contents from one service
     provider to another.
+
+## Part 2
