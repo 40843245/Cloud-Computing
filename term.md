@@ -91,6 +91,16 @@
 90. acronyms (n.) 首字母縮寫
 91. function (n.) 功能 
 92. party (n.) 方；特定群組
-93. 
-94. 
+93. pay-per-use basis (n.) 根據使用者個數付費
+94. charge-per-use basis (n.) 根據使用量付費
+95. conceptually (adv.) 就概念上來說
+96. cloud bursting (n.) 雲端爆裂
+97. load balancing (n.) 負載平衡
+98. clouds (n.) 雲端
+
+cloud bursting for load balancing between clouds (譯:雲端間的負載不平衡)
+
+See the description on the figure in the following link.
+
+https://github.com/40843245/Cloud-Computing/blob/main/NIST_term1.png
 
