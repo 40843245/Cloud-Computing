@@ -152,6 +152,9 @@
 151. heating, ventilation and air conditioning (HVAC) (n.) 加熱、通風和空調
 152. follow (v.) 遵從
 153. conventions (n.) 規範 (指大家都沒說但會遵從的正式規範，類似於淺規則。不過 conventions 比較常被用在學術上。) (PS.3)
+154. business support (n.) 業務支援
+155. Quality of Service (QoS) (n.) (PS.4)
+156. Data portability ()
 
 # PS (More explanations about terms)
 
@@ -207,3 +210,32 @@ The following sentence is shown in the figure of the following link.
     Following system architecture conventions, the horizontal positioning.
     
 https://github.com/40843245/Cloud-Computing/blob/main/NIST_term3.png    
+
+## PS.4
+
+More details about Qos, visit the link.
+
+https://en.wikipedia.org/wiki/Quality_of_service
+
+The Microsoft Qos Policy is shown on the following link.
+
+https://learn.microsoft.com/en-us/windows-server/networking/technologies/qos/qos-policy-top
+
+## PS.5
+About the term Data portability
+
+There are many explanations about the word.
+
+From wiki,
+
+     Data portability is a concept to protect users from having their data stored in "silos" or "walled gardens" that are incompatible with one another, 
+     i.e. closed platforms, thus subjecting them to vendor lock-in and making the creation of data backups or moving accounts between services difficult.
+
+From the NIST article,
+
+        Data portability is the ability of cloud consumers to copy data objects into or out of
+        a cloud or to use a disk for bulk data transfer
+        
+In general, the word refers 
+        
+        the ability to port the data from one device to other device.
