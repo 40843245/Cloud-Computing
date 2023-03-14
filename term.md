@@ -156,7 +156,18 @@
 155. Quality of Service (QoS) (n.) (PS.4)
 156. Data portability (PS.5) 
 157. Service interoperability (PS.6)
-
+158. System portability (PS.7)
+159. migration (n.) 遷移
+160. note (v.) 注意 
+161. It should be noted that (ph.) 它應該被注意
+162. data extraction (n.) 資料抽離
+163. not solely ... but also ... (= not only ... but also ...)
+164. purview (n.) 許可權
+165. personal information (PI) (n.) 個人資訊
+166. personally identifiable information (PII) (n.) 個人可識別的資訊
+167. business imperatives (n.) 業務要求
+168. pose (v.) 暴露(危險)
+169. challenge (n.) 挑戰
 # PS (More explanations about terms)
 
 ## PS.1
