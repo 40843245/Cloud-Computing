@@ -154,7 +154,8 @@
 153. conventions (n.) 規範 (指大家都沒說但會遵從的正式規範，類似於淺規則。不過 conventions 比較常被用在學術上。) (PS.3)
 154. business support (n.) 業務支援
 155. Quality of Service (QoS) (n.) (PS.4)
-156. Data portability ()
+156. Data portability (PS.5) 
+157. Service interoperability (PS.6)
 
 # PS (More explanations about terms)
 
@@ -222,7 +223,11 @@ The Microsoft Qos Policy is shown on the following link.
 https://learn.microsoft.com/en-us/windows-server/networking/technologies/qos/qos-policy-top
 
 ## PS.5
-About the term Data portability
+About the term Data portability, it is hard to translate it into chinese word precisely.
+
+It can be translate into 
+
+    資料移植性
 
 There are many explanations about the word.
 
@@ -239,3 +244,44 @@ From the NIST article,
 In general, the word refers 
         
         the ability to port the data from one device to other device.
+
+## PS.6
+About the word Service interoperability, it is hard to translate it into chinese word precisely.
+
+It can be translate into 
+
+    系統轉移性
+
+There are many explanations about the word.
+
+Wiki explains the word interoperability.
+
+https://en.wikipedia.org/wiki/Interoperability
+
+From the NIST article,
+
+      Service interoperability is the ability of cloud consumers to
+      use their data and services across multiple cloud providers with a unified management interface.
+      
+In general, the word refers 
+        
+        the ability to use the program, process or task etc from one system to another system which is related to service.      
+        
+## PS.7
+About the word System portability, it is hard to translate it into chinese word precisely.
+
+It can be translate into 
+
+    系統移植性
+
+There are many explanations about the word.
+
+Wiki explains the word.
+
+https://en.wikipedia.org/wiki/Software_portability
+
+From the NIST article,
+
+    System portability allows the migration of a fully-stopped virtual machine instance or a machine image from one
+    provider to another provider, or migrate applications and services and their contents from one service
+    provider to another.
