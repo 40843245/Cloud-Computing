@@ -298,4 +298,11 @@ From the NIST article,
     provider to another provider, or migrate applications and services and their contents from one service
     provider to another.
 
-## Part 2
+## Part 2 (from Big_Data_in_the_Cloud_A_Survey.pdf)
+1. a hot topic (n.) 很流行的議題
+2. huge volumes of data (n.) 大量資料
+3. leverage (v.) 利用
+4. pay-as-you-go (ph.) 即用即付
+5. survey (v.) 調查，仔細找出
+
+
