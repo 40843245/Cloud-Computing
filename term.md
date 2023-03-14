@@ -150,6 +150,7 @@ The word cloud bursting is shown in the figure of the following link.
 https://github.com/40843245/Cloud-Computing/blob/main/NIST_term1.png
 
 The sentencce
+
     cloud bursting for load balancing between clouds 
 
 
