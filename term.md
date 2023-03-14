@@ -94,7 +94,7 @@
 93. pay-per-use basis (n.) 根據使用者個數付費
 94. charge-per-use basis (n.) 根據使用量付費
 95. conceptually (adv.) 就概念上來說
-96. cloud bursting (n.) 雲端爆裂
+96. cloud bursting (n.) 雲端爆裂 (PS.1)
 97. load balancing (n.) 負載平衡
 98. clouds (n.) 雲端
 99. preclude (v.) 排除
@@ -141,7 +141,19 @@
 140. software abstraction (n.) 軟體抽象化
 141. hypervisor (n.) 虛擬機器管理程式
 142. virtual data storage (n.) 虛擬資料儲存
-143. fabric (n.) 織物 (在這裡意指組成某東西的主要元件) (P.S. See the PS.2)
+143. fabric (n.) 織物 (在這裡意指組成某東西的主要元件) (PS.2)
+144. Inventory Management (n.) 庫存管理
+145. switches (n.) 切換器
+146. network links (n.) 網路間的連結
+147. facility (n.) 設備
+148. heating (n.) 熱能 (heat 指會提高溫度的能量，熱能)
+149. ventilation (n.) 通風
+150. air conditioning (n.) 空調
+151. heating, ventilation and air conditioning (HVAC) (n.) 加熱、通風和空調
+152. follow (v.) 遵從
+153. conventions (n.) 規範 (指大家都沒說但會遵從的正式規範，類似於淺規則。不過 conventions 比較常被用在學術上。) (PS.3)
+
+# PS (More explanations about terms)
 
 ## PS.1
 
@@ -188,6 +200,10 @@ For more information about fabric computing, visit the link.
 https://en.wikipedia.org/wiki/Fabric_computing
 
 
- 
+## PS.3
 
+The following sentence is shown in the figure of the following link.
 
+    Following system architecture conventions, the horizontal positioning.
+    
+https://github.com/40843245/Cloud-Computing/blob/main/NIST_term3.png    
