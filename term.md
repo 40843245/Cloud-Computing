@@ -314,14 +314,24 @@ From the NIST article,
 6. embedded system (n.) 嵌入式系統
 7. Virtual Machine (VM) (n.) 虛擬機
 8. VM monitoring (n.) VM監控 
-9. pricing models (n.) 定價模型 
+9. pricing models (n.) 定價模型 (PS.1)
+10. startups (n.) (PS.2)
 
 ## PS.1
 Pricing modeling refers to the methods you can use to determine the right price for your products.
 
 Refer to the link.
+
 https://www.indeed.com/career-advice/career-development/pricing-modeling#:~:text=Pricing%20modeling%20refers%20to%20the%20methods%20you%20can,of%20product%E2%80%94for%20example%2C%20retail%20goods%20compared%20to%20services.
 
+## PS.2
+It refers
+
+the action or process of setting something in motion
+
+or
+
+a newly established business
 
 
 
