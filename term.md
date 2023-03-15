@@ -319,6 +319,7 @@ From the NIST article,
 21. smart cities (n.) 智慧城市
 22. insights (n.) 洞察力，獨特見解
 23. regard (adv.) (prep.) 跟...有關
+24. volume (n.) 容積；體積；容量 總數；總量；總額 (PS.3)
 
 
 ### PS.1
@@ -336,6 +337,18 @@ the action or process of setting something in motion
 or
 
 a newly established business
+
+### PS.3
+
+The link tell us it refers to
+
+the amount of space that is contained within an object or solid shape
+
+or
+
+the number or amount of something in general
+
+https://dictionary.cambridge.org/dictionary/english-chinese-traditional/volume?q=Volume
 
 ## Part 3 (from  A Survey on the Security of Cloud Computing.pdf)
 1. emerging technology (n.) 新興科技
