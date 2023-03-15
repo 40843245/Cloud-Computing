@@ -314,5 +314,6 @@ From the NIST article,
 6. embedded system (n.) 嵌入式系統
 7. Virtual Machine (VM) (n.) 虛擬機
 8. VM monitoring (n.) VM監控 
+9. 
 
 
