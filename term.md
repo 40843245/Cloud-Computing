@@ -304,6 +304,38 @@ From the NIST article,
 3. leverage (v.) 利用
 4. pay-as-you-go (ph.) 即用即付
 5. survey (v.) 調查，仔細找出
+6. pricing models (n.) 定價模型 (PS.1)
+10. startups (n.) (PS.2)
+11. ineresting environments (n.) 引起興趣的環境。
+12. describe (v.) 描述，稱它為
+13. graph (n.) 圖
+14. data files (n.) 資料檔案
+15. novel (adj.) 新穎的
+16. approach (n.) 方法
+17. Graphics Processing Unit (GPU) (abbr.) 圖片處理單元
+18. major (adj.) 主要的
+19. force (n.) 推動力
+20. cities (n.) 城市 (city 的複數)
+21. smart cities (n.) 智慧城市
+22. insights (n.) 洞察力，獨特見解
+23. regard (adv.) (prep.) 跟...有關
+
+
+### PS.1
+Pricing modeling refers to the methods you can use to determine the right price for your products.
+
+Refer to the link.
+
+https://www.indeed.com/career-advice/career-development/pricing-modeling#:~:text=Pricing%20modeling%20refers%20to%20the%20methods%20you%20can,of%20product%E2%80%94for%20example%2C%20retail%20goods%20compared%20to%20services.
+
+### PS.2
+It refers
+
+the action or process of setting something in motion
+
+or
+
+a newly established business
 
 ## Part 3 (from  A Survey on the Security of Cloud Computing.pdf)
 1. emerging technology (n.) 新興科技
@@ -314,24 +346,12 @@ From the NIST article,
 6. embedded system (n.) 嵌入式系統
 7. Virtual Machine (VM) (n.) 虛擬機
 8. VM monitoring (n.) VM監控 
-9. pricing models (n.) 定價模型 (PS.1)
-10. startups (n.) (PS.2)
+9. 
+24. 
 
-## PS.1
-Pricing modeling refers to the methods you can use to determine the right price for your products.
 
-Refer to the link.
 
-https://www.indeed.com/career-advice/career-development/pricing-modeling#:~:text=Pricing%20modeling%20refers%20to%20the%20methods%20you%20can,of%20product%E2%80%94for%20example%2C%20retail%20goods%20compared%20to%20services.
 
-## PS.2
-It refers
-
-the action or process of setting something in motion
-
-or
-
-a newly established business
 
 
 
