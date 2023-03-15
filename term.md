@@ -305,4 +305,14 @@ From the NIST article,
 4. pay-as-you-go (ph.) 即用即付
 5. survey (v.) 調查，仔細找出
 
+## Part 3 (from  A Survey on the Security of Cloud Computing.pdf)
+1. emerging technology (n.) 新興科技
+2. attack (v.) 攻擊 (n.) 攻擊
+3. threat (n.) 威脅
+4. comprise ... (v.) 由 ... 組成
+5. address (v.) 了解並處理(某個問題)
+6. embedded system (n.) 嵌入式系統
+7. Virtual Machine (VM) (n.) 虛擬機
+8. VM monitoring (n.) VM監控 
+
 
