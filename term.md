@@ -347,7 +347,8 @@ From the NIST article,
 49. metadata (n.) 元資料
 50. legacy (adj.) 過時的( = outdated )
 51. master-slave (n.) 主從模式 (PS.8)
-52. 
+52.  peer-to-peer (P2P) (adj.) 點對點的 (PS.9)
+53.  
 
 
 ### PS.1
@@ -397,6 +398,9 @@ https://zhuanlan.zhihu.com/p/149794113
 ### PS.8
 
 https://zh.wikipedia.org/zh-tw/%E4%B8%BB%E4%BB%8E%E6%A8%A1%E5%BC%8F
+
+### PS.9
+https://en.wikipedia.org/wiki/Peer-to-peer
 
 ## Part 3 (from  A Survey on the Security of Cloud Computing.pdf)
 1. emerging technology (n.) 新興科技
