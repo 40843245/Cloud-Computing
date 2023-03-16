@@ -332,6 +332,13 @@ From the NIST article,
 34. make sense (v.) 使...比較簡單
 35. Amazon EC2 (PS.4)
 36. once more (ph.) (=another time) (PS.5)
+37. scale out ... (ph.) 超過...的範圍
+38. nevertheless (adv.) 儘管如此
+39. sharding (PS.6) 
+40. small-scope (adj.) 小範圍的
+41. transaction (n.) 貿易
+42. bypass (v.) 繞過；忽略
+43. Not Only SQL (=N)
 
 
 ### PS.1
@@ -342,7 +349,7 @@ Refer to the link.
 https://www.indeed.com/career-advice/career-development/pricing-modeling#:~:text=Pricing%20modeling%20refers%20to%20the%20methods%20you%20can,of%20product%E2%80%94for%20example%2C%20retail%20goods%20compared%20to%20services.
 
 ### PS.2
-It refers
+It refer
 
 the action or process of setting something in motion
 
@@ -370,6 +377,9 @@ https://www.bing.com/search?q=EC2&form=ANNTH1&refig=da3f967a93f4449bbf4aca8e9044
 
 ### PS.5
 https://dictionary.cambridge.org/dictionary/english/once-more?q=Once++more
+
+### PS.6
+https://www.geeksforgeeks.org/what-is-sharding/
 
 ## Part 3 (from  A Survey on the Security of Cloud Computing.pdf)
 1. emerging technology (n.) 新興科技
