@@ -1,7 +1,8 @@
 # NoSQL
 ## Category
-1. BigTable : 
+1. BigTable : It was developed by Google in 2004 and is now used in more than 60 Google applications such as Google Earth, Web Indexing, Google Financing, Google Analytics and Personalized search.
 2. Cassandra : one of the most known engines for NoSQL. 
+3. DynamoDB : It was developed by Amazon to support its applications.
 
 ## Details of them
 
@@ -53,3 +54,6 @@ https://www.geeksforgeeks.org/what-is-p2ppeer-to-peer-process/
 ![image](https://user-images.githubusercontent.com/75050655/225531290-faae9f6e-0e57-43ca-9c3a-bbc9f10aeb54.png)
 
 Cassandra implements a hierarchical architecture based on columns (name, value and timestamp) grouped by families that map the columns in each line.
+
+### DynamoDB
+#### Feature
