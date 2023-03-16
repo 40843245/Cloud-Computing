@@ -44,6 +44,7 @@ The system meets these requirements
   
 It uses data partioning and replicates data by consistent hashing. (PS.2)
 
+It is maintained using the <b>quorum-like</b> technique. (PS.3)
 
 ### PS.1
 In P2P model, you can think that each user is a node where its degree is at least 2.
@@ -71,3 +72,15 @@ https://www.geeksforgeeks.org/what-is-p2ppeer-to-peer-process/
 Introduction to consistent hashing.
 
 https://medium.com/swlh/consistent-hashing-68c13951083e
+
+### PS.3
+
+Introduction to <b>quorum-like</b> technique.
+
+English version:
+
+https://en.wikipedia.org/wiki/Quorum_%28distributed_computing%29
+
+Chinese version:
+
+https://zh.wikipedia.org/zh-tw/Quorum_(%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F)
