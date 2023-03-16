@@ -353,6 +353,22 @@ From the NIST article,
 55. replica (n.) 仿製品
 56. protocol (n.) 協議，協定
 57. blob (abbr.) (stands for binary large object) (PS.10)
+58. open-source (n.) 開源的
+59. scalable (adj.) 可擴增的
+60. fault-tolerant (adj.) 可容錯的
+61. widely used (ph.) 廣泛被使用的
+62. shuffle (v.) 隨機洗牌，隨機重洗
+63. parallelization (n.) 平行化
+64. deployment (n.) 部門
+65. host (v.) 主機
+66. downtime (n.) 停機
+67. failover (n.) 故障轉移 (PS.11)
+68. differ on ... (ph.) 在...方面不同 (PS.12)
+69. address (v.) 了解並處理(某個問題)
+70. oriented (adj.) 導向的
+71. schema-oriented (adj.) 模式導向的
+72. schema-free (adj.) 模式開放的 (opposite of schema-oriented)
+73. schema-optional (adj.) (PS.13)
 
 
 ### PS.1
@@ -411,12 +427,26 @@ Introduction to blob.
 
 https://zh.wikipedia.org/zh-tw/%E4%BA%8C%E9%80%B2%E4%BD%8D%E5%A4%A7%E5%9E%8B%E7%89%A9%E4%BB%B6
 
+### PS.11
+https://zh.wikipedia.org/zh-tw/%E6%95%85%E9%9A%9C%E8%BD%AC%E7%A7%BB
+
+### PS.12
+Example of the phrase <b>differ on</b>
+
+They differ on the type of data stored.
+
+它們在資料儲存類型上不同。
+
+### PS.13 schema-oriented v.s. schema-free v.s. schema-optional
+
+By the article, it refers that it may, or may not use schema
+
 ## Part 3 (from  A Survey on the Security of Cloud Computing.pdf)
 1. emerging technology (n.) 新興科技
 2. attack (v.) 攻擊 (n.) 攻擊
 3. threat (n.) 威脅
 4. comprise ... (v.) 由 ... 組成
-5. address (v.) 了解並處理(某個問題)
+5. address (See previous part)
 6. embedded system (n.) 嵌入式系統
 7. Virtual Machine (VM) (n.) 虛擬機
 8. VM monitoring (n.) VM監控 
