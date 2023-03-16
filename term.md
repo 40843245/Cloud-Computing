@@ -331,6 +331,7 @@ From the NIST article,
 33. whilst (conj.) (formal form of while)
 34. make sense (v.) 使...比較簡單
 35. Amazon EC2 (PS.4)
+36. once more (ph.) (=another time) (PS.5)
 
 
 ### PS.1
@@ -366,6 +367,9 @@ https://dictionary.cambridge.org/dictionary/english-chinese-traditional/volume?q
 The link simply describes the word Amazon EC2.
 
 https://www.bing.com/search?q=EC2&form=ANNTH1&refig=da3f967a93f4449bbf4aca8e9044acdb
+
+### PS.5
+https://dictionary.cambridge.org/dictionary/english/once-more?q=Once++more
 
 ## Part 3 (from  A Survey on the Security of Cloud Computing.pdf)
 1. emerging technology (n.) 新興科技
