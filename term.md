@@ -451,7 +451,20 @@ By the article, it refers that it may, or may not use schema
 7. Virtual Machine (VM) (n.) 虛擬機
 8. VM monitoring (n.) VM監控 
 9. 
-24. 
+
+## Part 4 (A Survey on the Security of Cloud Computing 20020218.pptx)
+1. countermeasure (n.) 應對措施
+2. Computer Security Resource Center (CSRC) (abbr.) 電腦安全資源中心
+3. neural (adj.) 跟神經相關的
+4. progressing (adj.) 進展中的
+5. loss (n.) 遺失
+6. breach (v.) 漂白，破壞 (similar to the word break)
+7. malicious insiders (n.) 惡意資安間諜 (PS.1)
+
+### PS.1
+In Cambridge Dictionary, the word insider refers to
+
+someone who is an accepted member of a group and who therefore has special or secret knowledge or influence.
 
 
 
