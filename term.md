@@ -338,7 +338,16 @@ From the NIST article,
 40. small-scope (adj.) 小範圍的
 41. transaction (n.) 貿易
 42. bypass (v.) 繞過；忽略
-43. Not Only SQL (=N)
+43. Not Only SQL (=NoSQL)
+44. replicate (v.) 使複製重現
+45. retrieval (n.) (noun of "retrieve")
+46. well-formed (adj.) 架構完好的
+47. memTable (n.) 內存表 (stands for memory table) (PS.7)
+48. family (n.) 科
+49. metadata (n.) 元資料
+50. legacy (adj.) 過時的( = outdated )
+51. master-slave (n.) 主從模式 (PS.8)
+52. 
 
 
 ### PS.1
@@ -380,6 +389,14 @@ https://dictionary.cambridge.org/dictionary/english/once-more?q=Once++more
 
 ### PS.6
 https://www.geeksforgeeks.org/what-is-sharding/
+
+### PS.7
+https://ithelp.ithome.com.tw/articles/10246192
+https://zhuanlan.zhihu.com/p/149794113
+
+### PS.8
+
+https://zh.wikipedia.org/zh-tw/%E4%B8%BB%E4%BB%8E%E6%A8%A1%E5%BC%8F
 
 ## Part 3 (from  A Survey on the Security of Cloud Computing.pdf)
 1. emerging technology (n.) 新興科技
