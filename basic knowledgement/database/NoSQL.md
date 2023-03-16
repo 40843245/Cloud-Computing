@@ -3,7 +3,7 @@
 1. BigTable : It was developed by Google in 2004 and is now used in more than 60 Google applications such as Google Earth, Web Indexing, Google Financing, Google Analytics and Personalized search.
 2. Cassandra : one of the most known engines for NoSQL. 
 3. DynamoDB : It was developed by Amazon to support its applications.
-4. HBase :
+4. HBase : It is scalable and fault-tolerantand  performs atomic row operations with row level-locking.
 
 ## Details of them
 
