@@ -33,8 +33,7 @@ That is, when a node dies, other nodes can connect each other.
 
 In P2P model, you can think that each user is a node where its degree is at least 2.
 
-A P2P model should look lik this.
-
+A P2P model should look like this.
 
 ![image](https://user-images.githubusercontent.com/75050655/225529785-c298c5e9-25be-4289-9164-76ae77e994f7.png)
 
@@ -51,3 +50,6 @@ The reference simply talk about P2P network.
 
 https://www.geeksforgeeks.org/what-is-p2ppeer-to-peer-process/
 
+![image](https://user-images.githubusercontent.com/75050655/225531290-faae9f6e-0e57-43ca-9c3a-bbc9f10aeb54.png)
+
+Cassandra implements a hierarchical architecture based on columns (name, value and timestamp) grouped by families that map the columns in each line.
