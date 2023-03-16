@@ -23,5 +23,5 @@ with variable dimensions and consisting  in a sparse, distributed, persistent, m
 ### Cassandra
 #### Feature
 
-![image](https://user-images.githubusercontent.com/75050655/225528478-18a8df9d-a200-4ffd-b80d-634132a2d44e.png)
+It supplies <b>high performance </b> at massive scale and high availability.
 
