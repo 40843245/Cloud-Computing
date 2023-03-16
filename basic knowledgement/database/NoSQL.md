@@ -33,6 +33,9 @@ That is, when a node dies, other nodes can connect each other.
 
 In P2P model, you can think that each user is a node where its degree is at least 2.
 
+A P2P model should look lik this.
+
+
 ![image](https://user-images.githubusercontent.com/75050655/225529785-c298c5e9-25be-4289-9164-76ae77e994f7.png)
 
 
