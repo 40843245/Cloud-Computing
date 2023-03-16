@@ -3,6 +3,7 @@
 1. BigTable : It was developed by Google in 2004 and is now used in more than 60 Google applications such as Google Earth, Web Indexing, Google Financing, Google Analytics and Personalized search.
 2. Cassandra : one of the most known engines for NoSQL. 
 3. DynamoDB : It was developed by Amazon to support its applications.
+4. HBase :
 
 ## Details of them
 
@@ -49,6 +50,11 @@ During updates, the consistency is maintained using the <b>quorum-like</b> techn
 Additionally, it decenteralized replica synchronization protocol.
 
 On top of that, DynamoDB also provides fault detection to be added and removed without any manual partitioning and distribution.
+
+### HBase
+#### Feature
+This systemis a sparse, multidimensional, sorted map in which each cell is uniquely identified by row id, column  id and timestampset. 
+
 
 ### PS.1
 In P2P model, you can think that each user is a node where its degree is at least 2.
