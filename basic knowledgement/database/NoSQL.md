@@ -4,6 +4,7 @@
 2. Cassandra : one of the most known engines for NoSQL. 
 3. DynamoDB : It was developed by Amazon to support its applications.
 4. HBase : It is scalable and fault-tolerantand  performs atomic row operations with row level-locking ,featuring compression and in-memory. 
+5. Hypertable :
 
 ## Details of them
 
@@ -54,6 +55,12 @@ On top of that, DynamoDB also provides fault detection to be added and removed w
 ### HBase
 #### Feature
 This systemis a sparse, multidimensional, sorted map in which each cell is uniquely identified by row id, column  id and timestampset. 
+
+
+### Summary
+#### Comparison of these system
+![image](https://user-images.githubusercontent.com/75050655/225613442-5bb92b9a-ee8a-4b54-82f9-c230632cf731.png)
+
 
 
 ### PS.1
