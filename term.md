@@ -348,7 +348,11 @@ From the NIST article,
 50. legacy (adj.) 過時的( = outdated )
 51. master-slave (n.) 主從模式 (PS.8)
 52.  peer-to-peer (P2P) (adj.) 點對點的 (PS.9)
-53.  
+53. hashing (n.) 雜湊　(一種處理資料技術)
+54. decentralize (v.) 去集中化
+55. replica (n.) 仿製品
+56. protocol (n.) 協議，協定
+57. blob (abbr.) (stands for binary large object) (PS.10)
 
 
 ### PS.1
@@ -401,6 +405,11 @@ https://zh.wikipedia.org/zh-tw/%E4%B8%BB%E4%BB%8E%E6%A8%A1%E5%BC%8F
 
 ### PS.9
 https://en.wikipedia.org/wiki/Peer-to-peer
+
+### PS.10
+Introduction to blob.
+
+https://zh.wikipedia.org/zh-tw/%E4%BA%8C%E9%80%B2%E4%BD%8D%E5%A4%A7%E5%9E%8B%E7%89%A9%E4%BB%B6
 
 ## Part 3 (from  A Survey on the Security of Cloud Computing.pdf)
 1. emerging technology (n.) 新興科技
