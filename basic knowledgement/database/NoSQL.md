@@ -44,7 +44,11 @@ The system meets these requirements
   
 It uses data partioning and replicates data by consistent hashing. (PS.2)
 
-It is maintained using the <b>quorum-like</b> technique. (PS.3)
+During updates, the consistency is maintained using the <b>quorum-like</b> technique. (PS.3)
+
+Additionally, it decenteralized replica synchronization protocol.
+
+On top of that, DynamoDB also provides fault detection to be added and removed without any manual partitioning and distribution.
 
 ### PS.1
 In P2P model, you can think that each user is a node where its degree is at least 2.
