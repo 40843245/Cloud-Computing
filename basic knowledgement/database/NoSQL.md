@@ -26,12 +26,26 @@ with variable dimensions and consisting  in a sparse, distributed, persistent, m
 
 It supplies <b>high performance </b> at <b>massive scale</b> and <b>high availability</b>
 
-since it uses a peer-to-peer (P2P) distributed architecture 
+since it uses a peer-to-peer (P2P) distributed architecture (see PS.1)
 
 that is much more elegant, easy to set  up and maintain and has no single point-of-failure.
 
 That is, when a node dies, other nodes can connect each other.
 
+Cassandra implements a hierarchical architecture based on columns (name, value and timestamp) grouped by families that map the columns in each line.
+
+### DynamoDB
+#### Feature
+
+The system meets these requirements
+      
+      high  reliability and
+      high availability
+  
+It uses data partioning and replicates data by consistent hashing. (PS.2)
+
+
+### PS.1
 In P2P model, you can think that each user is a node where its degree is at least 2.
 
 A P2P model should look like this.
@@ -53,7 +67,7 @@ https://www.geeksforgeeks.org/what-is-p2ppeer-to-peer-process/
 
 ![image](https://user-images.githubusercontent.com/75050655/225531290-faae9f6e-0e57-43ca-9c3a-bbc9f10aeb54.png)
 
-Cassandra implements a hierarchical architecture based on columns (name, value and timestamp) grouped by families that map the columns in each line.
+### PS.2
+Introduction to consistent hashing.
 
-### DynamoDB
-#### Feature
+https://medium.com/swlh/consistent-hashing-68c13951083e
