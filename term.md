@@ -460,6 +460,9 @@ By the article, it refers that it may, or may not use schema
 5. loss (n.) 遺失
 6. breach (v.) 漂白，破壞 (similar to the word break)
 7. malicious insiders (n.) 惡意資安間諜 (PS.1)
+8. traffic hijacking (n.) 阻塞式攻擊
+9. shared-technology (n.) 共享科技
+10. 
 
 ### PS.1
 In Cambridge Dictionary, the word insider refers to
