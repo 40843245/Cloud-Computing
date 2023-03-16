@@ -39,3 +39,6 @@ A P2P model should look lik this.
 ![image](https://user-images.githubusercontent.com/75050655/225529785-c298c5e9-25be-4289-9164-76ae77e994f7.png)
 
 
+If one node dies,
+
+![image](https://user-images.githubusercontent.com/75050655/225530594-d69a30a1-6844-4b93-b0f1-13dfb724c4ab.png)
