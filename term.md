@@ -510,6 +510,10 @@ someone who is an accepted member of a group and who therefore has special or se
 34. breaking (n.) 破壞方法 (the present tense of the word <b>break</b>)
 35. apply to ... (v.) 應用在...
 36. Extensible Access Control Markup Language (XACML) (PS.9)
+37. federated (adj.) 聯合的
+38. proxy (n.) 伺服器
+39. proxy-based (adj.) 以伺服器為導向的
+40. IEEE (abbr.) (stands for Institute of Electrical and Electronics Engineers) (PS.10)
 
 ### PS.1
 In the Cambridge Dictionary, it tells us that it refers 
@@ -582,3 +586,7 @@ https://learn.microsoft.com/en-us/azure/virtual-machines/isolation
 For more details about XACML, visit the website.
 
 https://en.wikipedia.org/wiki/XACML
+
+## PS.10
+For more details about IEEE, visit
+https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers
