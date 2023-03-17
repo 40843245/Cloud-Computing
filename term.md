@@ -504,6 +504,12 @@ someone who is an accepted member of a group and who therefore has special or se
 28. VM rollback attack (ph.) 虛擬機回滾攻擊
 29. VM escape attack (ph.) 虛擬機逃逸攻擊
 30. isolation layer (ph.) 隔離層 (PS.8)
+31. penetrate (v.) 滲透
+32. functionality (n.) 功能性
+33. in essence (adv.) 本質上
+34. breaking (n.) 破壞方法 (the present tense of the word <b>break</b>)
+35. apply to ... (v.) 應用在...
+36. Extensible Access Control Markup Language (XACML) (PS.9)
 
 ### PS.1
 In the Cambridge Dictionary, it tells us that it refers 
@@ -570,3 +576,9 @@ The isolation layer in VM confuses you.
 If you want to learn more about it, I recommend to read a website from MSDS (Microsoft Docs).
 
 https://learn.microsoft.com/en-us/azure/virtual-machines/isolation
+
+## PS.9
+
+For more details about XACML, visit the website.
+
+https://en.wikipedia.org/wiki/XACML
