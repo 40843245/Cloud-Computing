@@ -483,6 +483,8 @@ someone who is an accepted member of a group and who therefore has special or se
 7. redirect (v.) 重新導向
 8. cloud-account (adj.) 有關雲端帳號的
 9. intruder (v.) 侵入者 (PS.2)
+10. nowadays (adv.) 至今
+11. sought (v.) (past tense or past principle tense of the word <b>seek</b>)
 
 ### PS.1
 In the Cambridge Dictionary, it tells us that it refers 
