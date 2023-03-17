@@ -4,15 +4,30 @@
     
 A CC service should meet these requirements.
     
-    on-demand self-service
+    on-demand self-service 
+   
+    broad newtwork access 
     
-    broad newtwork access
-    
-    resource pooling
+    resource pooling 
     
     rapid elasicity
     
     measured service
+ 
+### on-demand self-service 
+When you need it, don't need people to finish it.
+
+Imagine that you are in a buffe restuarant, you can put the food in your palette by yourself.
+
+The concept of On-demand self-service is applied to buffe.
+
+### broad network access
+It refers the capabilities are available over the network and accessed through standard mechanism that promote use by hetergeneous thin or thick client platforms.
+
+### Resource pooling 
+The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically
+
+assigned and reassigned according to consumer demand.
     
 ![image](https://user-images.githubusercontent.com/75050655/225801020-47ee9cdd-8204-418f-839c-95823465511c.png)
     
