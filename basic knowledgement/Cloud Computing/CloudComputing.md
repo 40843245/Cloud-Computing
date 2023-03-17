@@ -1,4 +1,22 @@
 # Cloud Computing (CC)
+
+## Feature
+    
+A CC service should meet these requirements.
+    
+    on-demand self-service
+    
+    broad newtwork access
+    
+    resource pooling
+    
+    rapid elasicity
+    
+    measured service
+    
+![image](https://user-images.githubusercontent.com/75050655/225801020-47ee9cdd-8204-418f-839c-95823465511c.png)
+    
+
 ## Architecture
 
     SaaS
