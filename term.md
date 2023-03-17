@@ -462,16 +462,40 @@ By the article, it refers that it may, or may not use schema
 7. malicious insiders (n.) 惡意資安間諜 (PS.1)
 8. traffic hijacking (n.) 阻塞式攻擊
 9. shared-technology (n.) 共享科技
-10. 
+10. be vulnerable to ... (adj.) 脆弱於...
+11. light (adj.) 輕微的 (其實它有許多意思)
+12. severe (adj.) 嚴重地的 (其實它有許多意思)
+13. comparative (adj.) 對比的
+14. 
 
 ### PS.1
 In Cambridge Dictionary, the word insider refers to
 
 someone who is an accepted member of a group and who therefore has special or secret knowledge or influence.
 
+## Part 5 (A Survey on the Security of Cloud Computing.pdf)
+1. hybrid (n.) 混合物 (v.) 混合
+2. financial (adj.) 金融方面的
+3. encryption (n.) 加密
+4. encryption keys (n.) 密鑰
+5. snoop (n.) 窺探(敏感資料) (PS.1) 
+6. manipulate (v.) 操縱
+7. redirect (v.) 重新導向
+8. cloud-account (adj.) 有關雲端帳號的
+9. intruder (v.) 侵入者 (PS.2)
 
+### PS.1
+In the Cambridge Dictionary, it tells us that it refers 
 
+to look around a place secretly, in order to discover things or find out information about someone or something.
 
+### PS.2
+Some extra info about the word intruder.
 
+    intrude (v.) 入侵 (similar to the word invade)
 
+    in- : 向內 (= go into)
+    -trud- : 刺 
+    
+    -vad- : 走 ( = walk )
 
