@@ -485,6 +485,7 @@ someone who is an accepted member of a group and who therefore has special or se
 9. intruder (v.) 侵入者 (PS.2)
 10. nowadays (adv.) 至今
 11. sought (v.) (past tense or past principle tense of the word <b>seek</b>)
+12. adversary (n.) 對手 (PS.3)
 
 ### PS.1
 In the Cambridge Dictionary, it tells us that it refers 
@@ -501,3 +502,9 @@ Some extra info about the word intruder.
     
     -vad- : 走 ( = walk )
 
+### PS.3
+The synonym of the word adversary.
+    
+    competitor (n.) 競爭對手.
+    enemy (n.) 敵人
+    
