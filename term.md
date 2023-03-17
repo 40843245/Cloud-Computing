@@ -494,6 +494,7 @@ someone who is an accepted member of a group and who therefore has special or se
 18. port scanning attack (n.) 端口掃描攻擊    
 19. man-in-the-middle attack (n.) 中間人攻擊
 20. ongoing (adj.) 對外的 (PS.5)
+21. metadata spoofing attack (n.) 元數據欺騙攻擊 (PS.6)
 
 ### PS.1
 In the Cambridge Dictionary, it tells us that it refers 
@@ -529,3 +530,17 @@ In the Cambridge Dictionary, the word ongoing refers to
 continue to exist or develop, or happening at the present moment.
 
 Reference at https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/ongoing?q=ongoing+
+
+### PS.6
+
+metadata refers data in data.
+
+In fact, the prefix meta- is an preposition which is originated from Greek. It refers the word beside, behind etc.
+
+However, it became a word.
+
+meta (adv.) 元
+
+metaverse (n.) 元宇宙
+
+metaphor (n.) 隱喻
