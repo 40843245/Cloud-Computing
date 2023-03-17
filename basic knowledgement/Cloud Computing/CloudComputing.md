@@ -28,7 +28,19 @@ It refers the capabilities are available over the network and accessed through s
 The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically
 
 assigned and reassigned according to consumer demand.
-    
+
+### Rapid elasticity
+A CC provider must provide a rapid and elasticity which means consumers can determine to use the service at anytime.
+
+### Measured service 
+A CC can measure how data a consumer consumes.
+
+For example, in Taiwan, the telephone billing is according to how many messages you sent and how long do you talk with your phone.
+
+The data can be measured in telephone service, thus, we can say that it meets a requirement -- a mesaured service.
+
+
+It is via from the figure.
 ![image](https://user-images.githubusercontent.com/75050655/225801020-47ee9cdd-8204-418f-839c-95823465511c.png)
     
 
