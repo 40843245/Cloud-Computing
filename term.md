@@ -1,5 +1,5 @@
 # Term
-## Part 1 (NIST .SP.800-145.pdf)
+## Part 1 (from NIST .SP.800-145.pdf  and NIST_SP-500-291_Version-2_2013_June18_FINAL (NIST Cloud Computing Standards Roadmap).pdf)
 1. Publication (n.) 發行 (文件的發行)
 2. Special Publication (n.) 專業版的發行
 3. Department (n.) 部門 (註:其實它的意思很多)
