@@ -488,6 +488,9 @@ someone who is an accepted member of a group and who therefore has special or se
 12. adversary (n.) 對手 (PS.3)
 13. launch (v.) 發起，進行
 14. various (adj.) 多樣的 (PS.4)
+15. outline (n.) 綱要 (v.) 大略列出
+16. SQL injection attack (n.) SQL注入式攻擊
+17. phishing (n.) 釣魚詐騙 (不是指那種去海邊釣魚) 
 
 ### PS.1
 In the Cambridge Dictionary, it tells us that it refers 
