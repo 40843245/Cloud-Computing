@@ -44,11 +44,32 @@ It is via from the figure.
 ![image](https://user-images.githubusercontent.com/75050655/225801020-47ee9cdd-8204-418f-839c-95823465511c.png)
     
 
-## Architecture
+## Service Model
 
     SaaS
     PaaS
     IaaS
+    
+### SaaS
+
+The capability provided to the consumer is to use the  provider’s applications running on a cloud infrastructure.
+
+ ![image](https://user-images.githubusercontent.com/75050655/225808763-1831791c-48db-41fe-8763-20c813755a88.png)
+ 
+### PaaS
+
+The capability provided to the consumer is to deploy onto the cloud infrastructure consumer-created or acquired applications created using 
+
+programming languages, libraries, services, and tools supported by the provider.
+
+### IaaS
+
+The capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer is able to 
+
+deploy and run arbitrary software, which can include operating systems and applications.
+
+    
+
 
 ## Deployment Model
   
