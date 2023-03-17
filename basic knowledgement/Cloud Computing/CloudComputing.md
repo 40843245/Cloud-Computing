@@ -62,6 +62,22 @@ It is via from the figure.
 ![image](https://user-images.githubusercontent.com/75050655/225800875-458b3855-76a3-4972-b13c-7f90c353161c.png)
 
 
+## Cloud Actor
+
+![image](https://user-images.githubusercontent.com/75050655/225805399-82e47aa2-2775-40d4-b5fd-cb08426a6710.png)
+
+![image](https://user-images.githubusercontent.com/75050655/225805460-50b4d583-7cb7-473c-aff1-bbd31ef0d168.png)
+
+![image](https://user-images.githubusercontent.com/75050655/225805521-ec67a3a7-9705-4852-b138-34fc0c519471.png)
+
+![image](https://user-images.githubusercontent.com/75050655/225807639-bfaaae28-3c92-4add-8a13-5c25bd427a92.png)
+
+![image](https://user-images.githubusercontent.com/75050655/225807783-0a113ca2-af27-412c-b651-005f4da71113.png)
+
+![image](https://user-images.githubusercontent.com/75050655/225807844-01d3f71b-a88a-46f2-a973-0e61a64f35a5.png)
+
+![image](https://user-images.githubusercontent.com/75050655/225808013-651c7c80-2653-4f73-9e7a-e1eebb674700.png)
+
 
 ## Attack of CC
 ![image](https://user-images.githubusercontent.com/75050655/225763094-33e3bb4c-ae8c-44ca-bf50-ddf808ef47a8.png)
@@ -73,6 +89,7 @@ It is via from the figure.
 ![image](https://user-images.githubusercontent.com/75050655/225763374-3166e59b-7827-484c-8ce5-28223f800fa0.png)
 
 ![image](https://user-images.githubusercontent.com/75050655/225763477-90e30752-e99e-4697-af91-aa76f03d3be1.png)
+
 
 ![image](https://user-images.githubusercontent.com/75050655/225763507-6323e531-b7b2-404d-a91c-03c239bca05e.png)
 
@@ -88,3 +105,4 @@ https://www.geeksforgeeks.org/what-are-scanning-attacks/
 
 ### port scanning attack
 https://www.geeksforgeeks.org/port-scanning-attack/
+\
