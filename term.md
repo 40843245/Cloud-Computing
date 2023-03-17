@@ -495,6 +495,15 @@ someone who is an accepted member of a group and who therefore has special or se
 19. man-in-the-middle attack (n.) 中間人攻擊
 20. ongoing (adj.) 對外的 (PS.5)
 21. metadata spoofing attack (n.) 元數據欺騙攻擊 (PS.6)
+22. Web Services Description Language (WSDL) (abbr.) web服務描述語言
+23. security hole (n.) 安全漏洞
+24. virtualization manager (n.) 虛擬管理器
+25. moreover (adv.) 除此之外 (PS.7)
+26. elaborated (adj.) 詳盡的
+27. cross-virtual-machine attacks (ph.) 跨虛擬機攻擊 (=side channel attacks)
+28. VM rollback attack (ph.) 虛擬機回滾攻擊
+29. VM escape attack (ph.) 虛擬機逃逸攻擊
+30. isolation layer (ph.) 隔離層 (PS.8)
 
 ### PS.1
 In the Cambridge Dictionary, it tells us that it refers 
@@ -544,3 +553,20 @@ meta (adv.) 元
 metaverse (n.) 元宇宙
 
 metaphor (n.) 隱喻
+
+### PS.7
+The synonym of the word moreover.
+
+    on top of that
+    besides 
+    
+For more details about besides and besides v.s. beside, visit the website.
+
+https://tw.blog.voicetube.com/archives/27731/%E4%B8%80%E6%AC%A1%E5%B9%AB%E4%BD%A0%E6%95%B4%E7%90%866%E5%80%8B%E9%80%B2%E9%9A%8E%E3%80%8C%E6%AD%A4%E5%A4%96%E3%80%8D/
+
+## PS.8
+The isolation layer in VM confuses you.
+
+If you want to learn more about it, I recommend to read a website from MSDS (Microsoft Docs).
+
+https://learn.microsoft.com/en-us/azure/virtual-machines/isolation
