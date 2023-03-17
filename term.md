@@ -368,7 +368,7 @@ From the NIST article,
 70. oriented (adj.) 導向的
 71. schema-oriented (adj.) 模式導向的
 72. schema-free (adj.) 模式開放的 (opposite of schema-oriented)
-73. schema-optional (adj.) (PS.13)
+73. schema-optional (adj.) 模式可選擇的 (PS.13)
 
 
 ### PS.1
@@ -514,6 +514,7 @@ someone who is an accepted member of a group and who therefore has special or se
 38. proxy (n.) 伺服器
 39. proxy-based (adj.) 以伺服器為導向的
 40. IEEE (abbr.) (stands for Institute of Electrical and Electronics Engineers) (PS.10)
+41. IFIP (abbr.) (stands for International Federation for Information Processing)
 
 ### PS.1
 In the Cambridge Dictionary, it tells us that it refers 
@@ -589,4 +590,10 @@ https://en.wikipedia.org/wiki/XACML
 
 ## PS.10
 For more details about IEEE, visit
+
 https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers
+
+## PS.11
+For more details about IFIP, visit
+
+https://ifip.org/
