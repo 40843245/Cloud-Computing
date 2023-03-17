@@ -1,5 +1,5 @@
 # Term
-## Part 1 
+## Part 1 (NIST .SP.800-145.pdf)
 1. Publication (n.) 發行 (文件的發行)
 2. Special Publication (n.) 專業版的發行
 3. Department (n.) 部門 (註:其實它的意思很多)
@@ -597,3 +597,5 @@ https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers
 For more details about IFIP, visit
 
 https://ifip.org/
+
+## Part 5
