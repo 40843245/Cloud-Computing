@@ -14,6 +14,9 @@
     
 ![image](https://user-images.githubusercontent.com/75050655/225761591-669c78be-a9e3-49cb-b76e-1ffae70981f2.png)
 
+![image](https://user-images.githubusercontent.com/75050655/225800875-458b3855-76a3-4972-b13c-7f90c353161c.png)
+
+
 
 ## Attack of CC
 ![image](https://user-images.githubusercontent.com/75050655/225763094-33e3bb4c-ae8c-44ca-bf50-ddf808ef47a8.png)
