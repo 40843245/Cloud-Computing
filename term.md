@@ -491,6 +491,9 @@ someone who is an accepted member of a group and who therefore has special or se
 15. outline (n.) 綱要 (v.) 大略列出
 16. SQL injection attack (n.) SQL注入式攻擊
 17. phishing (n.) 釣魚詐騙 (不是指那種去海邊釣魚) 
+18. port scanning attack (n.) 端口掃描攻擊    
+19. man-in-the-middle attack (n.) 中間人攻擊
+20. ongoing (adj.) 對外的 (PS.5)
 
 ### PS.1
 In the Cambridge Dictionary, it tells us that it refers 
@@ -519,3 +522,10 @@ Some extra info about the word various.
 variety (n.) 多樣性
 
 vary (v.) 變化 (similar to the word change and alter)
+
+### PS.5
+In the Cambridge Dictionary, the word ongoing refers to
+
+continue to exist or develop, or happening at the present moment.
+
+Reference at https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/ongoing?q=ongoing+
