@@ -450,7 +450,21 @@ By the article, it refers that it may, or may not use schema
 6. embedded system (n.) 嵌入式系統
 7. Virtual Machine (VM) (n.) 虛擬機
 8. VM monitoring (n.) VM監控 
-9. 
+9. accountability (n.) 問責制
+10. log (n.) 記錄檔
+11. log in (v.) 登入
+12. classification (n.) 根據標籤分類 (PS.1)
+
+### PS.1 classification v.s. clustering in AI　machine learning.
+
+Classification is, therefore, the problem of assigning <b>discrete labels</b> to things or, alternatively, to regions.
+
+Clustering consists in the algorithmic identification of groups of observations in a dataset, that are <b>similar</b> to one another according to some kind of metric.
+
+Refers to the website.
+
+https://www.baeldung.com/cs/ml-classification-vs-clustering
+
 
 ## Part 4 (A Survey on the Security of Cloud Computing 20020218.pptx)
 1. countermeasure (n.) 應對措施
