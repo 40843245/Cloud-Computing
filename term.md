@@ -460,6 +460,63 @@ By the article, it refers that it may, or may not use schema
 16. primary (n.) 主要的
 17. cause... (n.) 導致...的原因
 18. play an important role (PS.3)
+19. injection (n.)  注射；植入
+20. destroyed cryptography (PS.4)
+21. incident (n.) 不可預期的事件
+22. intentional (adj.) 蓄意的
+23. unintentional (adj.) 非蓄意的
+24. intention (n.) 目的
+25. extensibilty (n.) 延伸性
+26. cost-saving method (ph.) 節省成本的方法
+27. critical (adj.) 至關重要的 ; 困難重重的
+28. critical information (ph.) 至關重要的資訊 (PS.5)
+29. 
+30. review (n.) 複習；重新審視
+31. failure (n.) 故障；失靈 (PS.6)
+32. mitigation action (ph.) (PS.7)
+33. publish (v.) 發行
+34. API (abbr.) (PS.8)
+35. malicious (adj.) 惡意的；不懷好意的 (PS.9)
+36. malicious-insider threat (PS.10)
+37. gateway (n.) 閘道
+38. hijack (v.) 劫持 (PS.11)
+39. launching base (n.)  (PS.12)
+40. manipulate (v.) 操縱 
+41. account (n.) 帳號 (PS.13)
+42. stolen (adj.) 竊取來的
+43. credential (n.) 身分信用資訊 (PS.14)
+44. divert (v.) 誘導他人去做某件事 (PS.15)
+45. abuse (n.) 濫用；虐待
+46. stackholder (n.)  (PS.16)
+47. varied (adj.)  
+48. interest (n.) 興趣；利息；(PS.17)
+49. denial (adj.) (PS.18)
+50. DoS attack (abbr.) (stands for Denial of Service) 阻斷式攻擊 (PS.19)
+51. victim (n.) 受害者；被攻擊的設備 (PS.20)
+52. distributed (adj.) 分散式的
+53. DDoS attack (abbr.) (stands for Distributed Dos) 分散式阻斷式攻擊 (PS.21)
+54. SQL-injection (n.) SQL 注入式攻擊 (PS.22)
+55. lack (n.) 缺乏
+56. validation (n.) 有效性
+57. anonymous (adj.) 匿名的 (PS.23)
+58. sign (PS.24)
+59. anonymous sign (n.) 匿名者 (PS.25)
+60. fraud (n.) 欺騙；欺瞞 (PS.26)
+61. spoof (v.) (PS.27)
+62. spoofed link (n.) (PS.28)
+63. phishing (n.) (PS.29)
+64. abusive (adj.) (PS.30)
+65. abusive behaviour (PS.31)
+66. social-engineering technique (n.) (PS.32)
+67. port scanning attack (n.) (PS.33)
+68. famous (adj.) (PS.34)
+69. aim (n.) (PS.35)
+70. exact (adj.) 
+71. exploit (v.) (n.) (PS.36)
+72. actual (adj.)
+73. phase (n.) (PS.37)
+74. 
+
 
 
 ### PS.1 
@@ -478,7 +535,58 @@ https://www.baeldung.com/cs/ml-classification-vs-clustering
 ### PS.3
 
 play an important role =
-play a great role (ph.)扮演重要角色
+play a great role (ph.) 扮演重要角色
+
+### PS.4
+For the words destroyed cryptography and breaking cryptography, visit the website.
+
+https://www.geeksforgeeks.org/breaking-cryptography/
+
+### PS.5  critical information v.s. sensitive information
+
+### PS.6
+
+### PS.7
+
+### PS.8
+
+### PS.9
+
+### PS.10
+
+For the word about insider threat,
+
+https://en.wikipedia.org/wiki/Insider_threat
+
+### PS.11
+
+### PS.12
+
+### PS.13
+
+### PS.14
+
+### PS.15
+
+### PS.16
+
+### PS.17
+
+### PS.18
+
+### PS.19
+
+### PS.20
+
+### PS.21
+
+### PS.22
+
+### PS.23
+
+### PS.24
+
+### PS.25
 
 
 ## Part 4 (A Survey on the Security of Cloud Computing 20020218.pptx)
