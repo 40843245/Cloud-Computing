@@ -450,17 +450,22 @@ By the article, it refers that it may, or may not use schema
 6. embedded system (n.) 嵌入式系統
 7. Virtual Machine (VM) (n.) 虛擬機
 8. VM monitoring (n.) VM監控 
-9. accountability (n.) 問責制
+9. accountability (n.) 問責制 (PS.1)
 10. log (n.) 記錄檔
 11. log in (v.) 登入
-12. classification (n.) 根據標籤分類 (PS.1)
+12. classification (n.) 根據標籤分類 (PS.2)
 13. authencation policy (n.) 認證的策略
 14. embedded security (n.) 嵌入式系統的保密性
 15. deployment (n.) 使用
 16. primary (n.) 主要的
 17. cause... (n.) 導致...的原因
+18. play an important role (PS.3)
 
-### PS.1 classification v.s. clustering in AI　machine learning.
+
+### PS.1 
+accountable (adj.) 應該對自己的行為負責的
+
+### PS.2 classification v.s. clustering in AI　machine learning.
 
 Classification is, therefore, the problem of assigning <b>discrete labels</b> to things or, alternatively, to regions.
 
@@ -469,6 +474,11 @@ Clustering consists in the algorithmic identification of groups of observations 
 Refers to the website.
 
 https://www.baeldung.com/cs/ml-classification-vs-clustering
+
+### PS.3
+
+play an important role =
+play a great role (ph.)扮演重要角色
 
 
 ## Part 4 (A Survey on the Security of Cloud Computing 20020218.pptx)
