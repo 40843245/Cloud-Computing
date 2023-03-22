@@ -778,9 +778,34 @@ https://ifip.org/
 41. as well as
 42. define
 43. forensic
-44. challenge
+44. 
 45. refer
-46. 
+46. application
+47. physical
+48. session
+49. impact
+50. firewall
+51. misconfiguration
+52. rookit
+53. Hypervisor Rootkit
+54. covet
+55. covet channel
+56. side-channel attack
+57. leak
+58. outsource
+59. spoof
+60. BluePill
+61. application level
+62. segregation
+63. data segregation
+64. availability
+65. secure
+66. center
+67. 
+68. 
+
+### Part 6
+
 
 
 
