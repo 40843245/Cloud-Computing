@@ -734,4 +734,54 @@ For more details about IFIP, visit
 
 https://ifip.org/
 
-## Part 5
+## Part 5 (On cloud security attacks A taxonomy and intrusion detection and prevention as a service.pdf)
+1. cloud model (n.) 雲端模型 (PS.1)
+2. taxonomy (n.) 分類學 (PS.2)
+3. detection (n.) 偵測  (PS.3)
+4. prevention (n.) 避免 (PS.4)
+5. level (n.) 等級；層次  (PS.5)
+6. VM-to-VM (adj.) VM 對 VM
+7. client-to-client (adj.) client 對 client
+8. guest-to-guest (adj.) guest 對 guest
+9. surface (n.) 表層  (PS.6)
+10. stepped-stone attack (ph.)  (PS.7)
+11. 
+12. hypervisor-based  (PS.8)
+13. 
+14. systematic review  (PS.9)
+15. 
+16. 
+17. quantitative
+18. research
+19. quantitative research  (PS.10)
+20. quanlitative
+21. qualititative research  (PS.10)
+22. slightly over
+23. article
+24. locate
+25. reduce
+26. review
+27. title
+28. abstract
+29. full text
+30. survey
+31. due to  (PS.11)
+32. relevancy  (PS.12)
+33. topic
+34. vector
+35. attack vector
+36. existing
+37. comprehensive
+38. study
+39. present
+40. different
+41. as well as
+42. define
+43. forensic
+44. challenge
+45. refer
+46. 
+
+
+
+
