@@ -20,6 +20,20 @@ To prevent severe damage due to client-to-client attack, as a user. We can
 ### Guest-to-Guest attack
 ![image](https://user-images.githubusercontent.com/75050655/227110920-8d506155-4af3-47ed-974d-e0879035ca2b.png)
 
+![image](https://user-images.githubusercontent.com/75050655/227111598-cfcc50fd-42c6-4cb9-b24e-ce27e76c43aa.png)
+
+## Potential attack in VM
+
+![image](https://user-images.githubusercontent.com/75050655/227112066-0c8e91bb-c7cd-4703-88b8-bd95f7d7e014.png)
+
+## Resource of CC
+The resource can be categorized into three types as follows.
+
+![image](https://user-images.githubusercontent.com/75050655/227112473-d8605cca-962c-40aa-a6c3-755af7720e9a.png)
+
+## S
+![image](https://user-images.githubusercontent.com/75050655/227114759-090d5485-81c6-44a5-94e5-b1fc640974aa.png)
+
     
     
 
