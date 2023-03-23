@@ -794,13 +794,13 @@ https://ifip.org/
 57. arise (v.) 發生;出現
 58. CSP (abbr.) (stands for Cloud Service Provider) (PS.18)
 59. instance (n.) 實例 (PS.19)
-60. paper (n.) 紙張；文章 (口語用法) (PS.20)
+60. paper (n.) 紙張；（發表或宣讀的）論文 (口語用法) (PS.20)
 61. hypervisor-based (adj.) 以虛擬管理機為基礎
 62. systematically (adv.) 有系統性地
 63. review (n.) 複習；審視
-64. systematic review  有系統性審視 (PS.21)
-65. literature (n.) 文獻
-66. material (n.) 材料；素材
+64. systematic review (ph.) 有系統性審視 (PS.21)
+65. literature (n.) （尤指有傳世價值的）文學作品 (PS.22)
+66. material (n.) 材料；素材 
 67. quantitative (adj.) 質量的
 68. research (n.) 研究
 69. quantitative research  量子研究 (PS.23)
@@ -930,13 +930,45 @@ v
 #### PS.39
 #### PS.39
 #### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
+#### PS.20
+For more details about paper, visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/paper
+
+#### PS.21
+For more details about systematic review, visit the website.
+
+https://en.wikipedia.org/wiki/Systematic_review
+
+#### PS.22
+For more details about literature, visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/literature
+
+#### PS.23
+For more details about quanitative research, visit the website.
+
+https://en.wikipedia.org/wiki/Quantitative_research
+
+#### PS.24
+For more details about qualitative research, visit the website.
+
+https://en.wikipedia.org/wiki/Qualitative_research
+
+#### PS.25
+For more details about relevance, visit the website.
+
+https://en.wikipedia.org/wiki/Relevance
+
+#### PS.26
+For more details about vector, visit the website.
+
+https://en.wikipedia.org/wiki/Euclidean_vector
+
 #### PS.27
+For more details about attack vector, visit the website.
+
+https://en.wikipedia.org/wiki/Attack_vector
 #### PS.28
 comprehend (v.) 領悟
 
