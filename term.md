@@ -741,7 +741,7 @@ https://ifip.org/
 4. identify (v.) 辨認
 5. collect (v.) 收集
 6. classify (v.) 分類
-7. with respect to (ph.) 有關於 (PS/3)
+7. with respect to (ph.) 有關於 (PS.3)
 8. in-depth (adj.) 深入的
 9. understanding (n.) 了解
 10. requirement (n.) 需求
@@ -773,7 +773,7 @@ https://ifip.org/
 36. trend (n.) 潮流；趨勢
 37. hypervisor (n.) 虛擬管理機 (PS.11)
 38. on-site (adj.) 現場的
-39. exfiltrate (v.) 外洩 (PS.2)
+39. exfiltrate (v.) 外洩 (PS.12)
 40. inherent (v.) 繼承
 41. weaknesses (n.) 脆弱性;缺點;短處
 42. TCP/IP (abbr.) TCP/IP (PS.13)
@@ -912,24 +912,94 @@ intrusion (n.) 入侵
 intrude (v.)  入侵
 intrusive (adj.) 擾人的
 
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-v
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
+#### PS.5
+For more details about level, visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/level?q=level+
+#### PS.6
+For more details about surface, visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/surface?q=surface+
+
+#### PS.7
+Diagram illustrates what is stepped-stone attack.
+
+![image](https://user-images.githubusercontent.com/75050655/227220307-13427913-ddf8-4547-8383-409465e26d90.png)
+
+You can view full text if you join it.
+
+https://www.researchgate.net/figure/A-stepping-stone-attack_fig1_224760651
+
+#### PS.8
+For more details about adoption, visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/adoption?q=adoption+
+
+#### PS.9
+For more details about compound, visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/compound?q=compound+
+
+#### PS.10 
+For more details about outsource, visit the website.
+
+https://en.wikipedia.org/wiki/Outsourcing
+
+https://www.outsourceaccelerator.com/articles/12-key-benefits-of-outsourcing/
+
+#### PS.11
+
+Hypervisor is sometimes called VM monitor.
+
+https://en.wikipedia.org/wiki/Hypervisor
+
+#### PS.12
+
+For more details about data exfiltration, visit the website.
+
+https://en.wikipedia.org/wiki/Data_exfiltration
+
+#### PS.13
+For more details about TCP/IP, visit the website.
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+
+#### PS.14
+
+Stack v.s. Heap
+
+https://medium.com/@yauhsienhuang/stack-%E8%88%87-heap-%E6%9C%89%E4%BD%95%E5%B7%AE%E5%88%A5-acdcc11263a0
+
+#### PS.15
+For more details about polymorphism, visit the website.
+
+https://en.wikipedia.org/wiki/Polymorphism_(computer_science)
+
+#### PS.16
+Precisely say for the word metamorphic.
+
+It refers to change into a new form and structure by very great heat and pressure.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E/metamorphic?q=metamorphism
+
+
+#### PS.17
+zero-day attack refers attack before the bug was fixed by the provider.
+
+For more details about zero-day attack, visit the website.
+
+https://en.wikipedia.org/wiki/Zero-day_(computing)
+
+#### PS.18
+For more details about CSP, visit the website.
+
+https://cloud.google.com/learn/what-is-a-cloud-service-provider?hl=zh-tw
+
+#### PS.19
+For more details about instance, visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/instance?q=instance+
+
 #### PS.20
 For more details about paper, visit the website.
 
@@ -1064,7 +1134,19 @@ You can visit the website or even buy the book if you are interested in attack i
 
 https://www.sciencedirect.com/topics/computer-science/flooding-attack
 #### PS.43
-#### PS.1
+For the details about Hypervisor Rootkit, visit the article.
+
+https://link.springer.com/chapter/10.1007/978-3-319-50011-9_29
+
+#### PS.44
+side-channel attack refers to attempt to know sensitive information by predicting with known information.
+
+For the details about side-channel attack, visit the article.
+
+https://en.wikipedia.org/wiki/Side-channel_attack
+
+or see my notes which is available at.
+
 #### PS.1
 #### PS.1
 #### PS.1
