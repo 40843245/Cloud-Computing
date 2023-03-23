@@ -1160,19 +1160,59 @@ For the details about leak, visit the website.
 https://dictionary.cambridge.org/dictionary/english/leak?q=leak+
 
 #### PS.47
+For the details about generation, visit the website.
+
+https://dictionary.cambridge.org/dictionary/english/generation?q=generation+
 #### PS.48
+For the details about spoofing attack, visit the website.
+
+https://en.wikipedia.org/wiki/Spoofing_attack
 #### PS.49
+For the details about BluePill and blue pill, visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/blue-pill
+
+https://en.wikipedia.org/wiki/Blue_Pill_%28software%29
+
 #### PS.50
+The formal phrase of <b>application level</b> is application layer.
+
+The application layer is in the top-most layer in TCP/IP model and also is OSI model.
+
+https://en.wikipedia.org/wiki/Application_layer
+
 #### PS.51
+
+The following website illustrates the importance of data separation.
+
+https://www.bing.com/search?q=data+segregation&aqs=edge..69i57&PC=NMTS&first=11&FORM=PERE
+
 #### PS.52
+HX-DoS attack is a kind of Dos attack.
+
 #### PS.53
+unwanted result 
+= undesired result.
+
 #### PS.54
 ![image](https://user-images.githubusercontent.com/75050655/227113147-5a1f237d-b3f5-4c95-b9aa-203e879cb101.png)
 
 #### PS.55
+Introduction to framework.
+
+https://ithelp.ithome.com.tw/articles/10205345
 #### PS.56
+The concept of container in computer science.
+
+https://medium.com/@jinghua.shih/container-%E6%A6%82%E5%BF%B5%E7%AD%86%E8%A8%98-b0963ae2d7c6
 #### PS.57
+Simple introduction to security attack.
+
+https://web.dev/security-attacks/
 #### PS.58
+
+More precisely to say, the word <b>obviate</b>refers to remove a difficulty, especially so that action to deal with it becomes unnecessary.
+
 #### PS.59
 #### PS.60
 #### PS.61
