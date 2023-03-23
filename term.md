@@ -795,7 +795,7 @@ https://ifip.org/
 58. CSP (abbr.) (stands for Cloud Service Provider) (PS.18)
 59. instance (n.) 實例 (PS.19)
 60. paper (n.) 紙張；文章 (口語用法) (PS.20)
-61. 
+61. hypervisor-based (adj.) 以虛擬管理機為基礎
 62. systematically (adv.) 有系統性地
 63. review (n.) 複習；審視
 64. systematic review  有系統性審視 (PS.21)
@@ -874,8 +874,17 @@ https://ifip.org/
 137. be overwhelmed by ... (ph.) 被...淹沒
 138. infect (v.) 感染
 139. track down ... (v.) 追蹤
-140. comprehensive analysis (ph.) 全面性分析
+140. comprehensive analysis (ph.) 全面性分析 (PS.60)
 141. undertake (v.) 經歷；執行
+142. SOAP (abbr.) (stands for Simple Object Access Protocol) (PS.61)
+143. flash crowd (ph.) 快閃族 (PS.62)
+144. burden (v.) 負擔
+145. workload (n.) 工作量
+146. request rate (n.) 請求速率 (PS.63)
+147. in time (adv.) 及時地
+148. likewise (adv.) 同樣地
+149. counterpart (n.) （與不同地方或組織的人或物）作用相同者，相對應者 (PS.64)
+150. CLASSIE (abbr.) (I don't know) (PS.65)
 
 #### PS.1
 For introudction to cloud model, visit the website.
@@ -904,7 +913,8 @@ https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%B
 #### PS.1
 #### PS.54
 ![image](https://user-images.githubusercontent.com/75050655/227113147-5a1f237d-b3f5-4c95-b9aa-203e879cb101.png)
-
+#### PS.65
+According to the article, CLASSIE is a role set based de-tection in order to defend HX-DoS attack.
 
 
 ### Part 6
