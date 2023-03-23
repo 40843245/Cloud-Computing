@@ -885,6 +885,7 @@ https://ifip.org/
 148. likewise (adv.) 同樣地
 149. counterpart (n.) （與不同地方或組織的人或物）作用相同者，相對應者 (PS.64)
 150. CLASSIE (abbr.) (I don't know) (PS.65)
+151. Reconstruct and Drop method (I don't know) (PS.66)
 
 #### PS.1
 For introudction to cloud model, visit the website.
@@ -915,8 +916,8 @@ https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%B
 ![image](https://user-images.githubusercontent.com/75050655/227113147-5a1f237d-b3f5-4c95-b9aa-203e879cb101.png)
 #### PS.65
 According to the article, CLASSIE is a role set based de-tection in order to defend HX-DoS attack.
-
-
+#### PS.66
+Reconstruct and Drop methods are used to decide which packet isaffected and should be dropped.
 ### Part 6
 
 
