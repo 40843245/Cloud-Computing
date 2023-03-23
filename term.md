@@ -866,9 +866,16 @@ https://ifip.org/
 129. framework (n.) 框架；架構 (PS.55)
 130. disrupt (v.) 打斷
 131. container (n.) 容器；裝東西的東東 (PS.56)
-132. security attack (ph.) 秘密的攻擊 (PS.57)
+132. security attack (ph.) 安全的攻擊 (PS.57)
 133. obviate (v.) 排除 (PS.58)
-134. data locality (n.) (PS.59)
+134. data locality (n.) 數據本地化 (PS.59)
+135. legitimate (adj.) 在法律上被許可的
+136. security checks (ph.) 安全檢查
+137. be overwhelmed by ... (ph.) 被...淹沒
+138. infect (v.) 感染
+139. track down ... (v.) 追蹤
+140. comprehensive analysis (ph.) 全面性分析
+141. undertake (v.) 經歷；執行
 
 #### PS.1
 For introudction to cloud model, visit the website.
