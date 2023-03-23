@@ -737,72 +737,156 @@ https://ifip.org/
 ## Part 5 (On cloud security attacks A taxonomy and intrusion detection and prevention as a service.pdf)
 1. cloud model (n.) 雲端模型 (PS.1)
 2. taxonomy (n.) 分類學 (PS.2)
-3. detection (n.) 偵測  (PS.3)
-4. prevention (n.) 避免 (PS.4)
-5. level (n.) 等級；層次  (PS.5)
-6. VM-to-VM (adj.) VM 對 VM
-7. client-to-client (adj.) client 對 client
-8. guest-to-guest (adj.) guest 對 guest
-9. surface (n.) 表層  (PS.6)
-10. stepped-stone attack (ph.)  (PS.7)
-11. 
-12. hypervisor-based  (PS.8)
-13. 
-14. systematic review  (PS.9)
-15. 
-16. 
-17. quantitative
-18. research
-19. quantitative research  (PS.10)
-20. quanlitative
-21. qualititative research  (PS.10)
-22. slightly over
-23. article
-24. locate
-25. reduce
-26. review
-27. title
-28. abstract
-29. full text
-30. survey
-31. due to  (PS.11)
-32. relevancy  (PS.12)
-33. topic
-34. vector
-35. attack vector
-36. existing
-37. comprehensive
-38. study
-39. present
-40. different
-41. as well as
-42. define
-43. forensic
-44. 
-45. refer
-46. application
-47. physical
-48. session
-49. impact
-50. firewall
-51. misconfiguration
-52. rookit
-53. Hypervisor Rootkit
-54. covet
-55. covet channel
-56. side-channel attack
-57. leak
-58. outsource
-59. spoof
-60. BluePill
-61. application level
-62. segregation
-63. data segregation
-64. availability
-65. secure
-66. center
-67. 
-68. 
+3. a range of ... (n.)  一系列的...
+4. identify (v.) 辨認
+5. collect (v.) 收集
+6. classify (v.) 分類
+7. with respect to (ph.) 有關於 (PS/3)
+8. in-depth (adj.) 深入的
+9. understanding (n.) 了解
+10. requirement (n.) 需求
+11. highlight (v.) 強調；劃重點
+12. importance (n.) 重要性
+13. intrusion (n.) 入侵 (PS.4)
+14. detection (n.) 偵測  
+15. prevention (n.) 避免 
+16. level (n.) 等級；層次  (PS.5)
+17. VM-to-VM (adj.) VM 對 VM
+18. client-to-client (adj.) client 對 client
+19. guest-to-guest (adj.) guest 對 guest
+20. surface (n.) 表層  (PS.6)
+21. stepped-stone attack (ph.)  (PS.7)
+22. entirely (adv.) 完全地
+23. new (adj.) 新的
+24. traction (n.) 牽引力
+25. individual (n.) 個別的
+26. predict (v.) 預測
+27. adoption (n.) 採用...的意見；採用...的方法 (PS.8)
+28. continue (v.) 持續
+29. rise (v.) 上升
+30. compound (adj.)複合的 (n.) 複合物 (PS.9)
+31. increase (v.) 增加；增強
+32. straightforward (adj.) 容易上手的
+33. operational (adj.) 運算方面的
+34. outsource (v.) 外包 (PS.10)
+35. due to (conj.) 由於
+36. trend (n.) 潮流；趨勢
+37. hypervisor (n.) 虛擬管理機 (PS.11)
+38. on-site (adj.) 現場的
+39. exfiltrate (v.) 外洩 (PS.2)
+40. inherent (v.) 繼承
+41. weaknesses (n.) 脆弱性;缺點;短處
+42. TCP/IP (abbr.) TCP/IP (PS.13)
+43. stack (n.) 堆疊 (PS.14)
+44. make use of ... (ph.) 利用
+45. polymorphism (n.) 多型 (PS.15)
+46. metamorphism (n.) 變質性 (PS.16)
+47. evade (v.) 躲避
+48. inject (v.) 注入；植入
+49. kernel (adj.) 核心的 
+50. script (n.) 腳本
+51. zero-day (adj.) 零時差的 (PS.17)
+52. traffic (n.) 交通；阻塞
+53. avenue (n.) 通道
+54. monitor (v.) 監控 (n.) 監視器
+55. integral (adj.) 已整合的；內置的
+56. component (n.) 元件
+57. arise (v.) 發生;出現
+58. CSP (abbr.) (stands for Cloud Service Provider) (PS.18)
+59. instance (n.) 實例 (PS.19)
+60. paper (n.) 紙張；文章 (口語用法) (PS.20)
+61. 
+62. systematically (adv.) 有系統性地
+63. review (n.) 複習；審視
+64. systematic review  有系統性審視 (PS.21)
+65. literature (n.) 文獻
+66. material (n.) 材料；素材
+67. quantitative (adj.) 質量的
+68. research (n.) 研究
+69. quantitative research  量子研究 (PS.23)
+70. quanlitative (adj.) 有品質的
+71. qualititative research  (PS.24) 質子研究
+72. slightly over (ph.) 大略估計
+73. article (n.) 文章
+74. locate (v.) 定位
+75. reduce (v.) 減少
+76. To-date (adv.) 至今
+77. title (n.) 標題
+78. abstract (n.) 摘要
+79. full text (n.) 全文
+80. survey (n.) 調查
+81. open up (ph.) 打開心扉
+82. relevancy  相關性 (PS.25)
+83. topic (n.) 主題 
+84. vector (n.) 向量 (含有大小與方向) (PS.26)
+85. attack vector (ph.) 攻擊方向 (PS.27)
+86. existing (adj.) 目前存在的
+87. comprehensive (adj.) 全面的 (PS.28)
+88. study (n.) 研讀 (PS.29)
+89. present (adj.) 現在式的；目前的
+90. different (adj.) 不同的
+91. as well as ... (adv.) 也... (PS.30)
+92. define (v.) 定義
+93. forensics (n.) 司法科學 (PS.31)
+94. capital (n.) 首都；大寫(字母) 
+95. botnet (n.) 殭屍網路攻擊 (PS.32)
+96. refer (v.) 參照
+97. application (n.) 應用；應用程式 (PS.33)
+98. physical (adj.) 實體的 (PS.34)
+99. session (n.) 一場；會議 (PS.35)
+100. impact (v.) 影響 (PS.36)
+101. firewall (n.) 防火牆 (PS.37)
+102. misconfiguration (n.) 不良配置 (PS.38)
+103. rookit (n.) 一種能取得最高使用權限的工具 (PS.39) 
+104. spam (n.) 垃圾信 (PS.40)
+105. RIP (abb.) (stands for Routing Information Protocal) (PS.41)
+106. flooding attack (ph.) 洪水式攻擊 (PS.42)
+107. Hypervisor Rootkit 一種能取得虛擬機最高使用權限的工具  (PS.43)
+108. covet (n.) 貪求
+109. covet channel (n.) 隱蔽頻道 (PS.44)
+110. side-channel attack (n.) 旁路攻擊 (PS.45)
+111. leak (n.) 外漏 (PS.46)
+112. generation (n.) 代 (next generation: 下一代) (PS.47)
+113. spoof attack (n.) 欺瞞攻擊 (PS.48)
+114. BluePill (n.) 藍色藥丸；一種軟體 (PS.49)
+115. application level (n.) 應用層 (PS.50)
+116. segregation (n.) 隔離
+117. data segregation (n.) 資料隔離 (PS.51)
+118. availability (n.) 可行性
+119. secure (adj.) 保密的
+120. center (n.) 中央
+121. HX-DoS attack (ph.) (stands for HyperExtension) (PS.52)
+122. environment (n.) 環境
+123. virtualize (v.) 虛擬化
+
+#### PS.1
+For introudction to cloud model, visit the website.
+
+https://en.wikipedia.org/wiki/Cloud_computing
+
+
+#### PS.2
+#### PS.3
+with respect to = about = concerning 
+
+From the website:
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%B3%95%E8%AA%9E/with-respect-to
+
+#### PS.4
+#### PS.1
+#### PS.1
+#### PS.1
+#### PS.1
+#### PS.1
+#### PS.1
+#### PS.1
+#### PS.1
+#### PS.1
+#### PS.1
+#### PS.1
+#### PS.1
+
+
 
 ### Part 6
 
