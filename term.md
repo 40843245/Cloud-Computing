@@ -843,7 +843,7 @@ https://ifip.org/
 106. flooding attack (ph.) 洪水式攻擊 (PS.42)
 107. Hypervisor Rootkit 一種能取得虛擬機最高使用權限的工具  (PS.43)
 108. covet (n.) 貪求
-109. covet channel (n.) 隱蔽頻道 (PS.44)
+109. covert channel (n.) 隱蔽頻道 (PS.44)
 110. side-channel attack (n.) 旁路攻擊 (PS.45)
 111. leak (n.) 外漏 (PS.46)
 112. generation (n.) 代 (next generation: 下一代) (PS.47)
@@ -904,11 +904,67 @@ with respect to = about = concerning
 From the website:
 https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%B3%95%E8%AA%9E/with-respect-to
 
-#### PS.4
-#### PS.1
-#### PS.1
-#### PS.1
-#### PS.1
+
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+v
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.39
+#### PS.37
+For the details about firewalls, visit the website.
+
+https://en.wikipedia.org/wiki/Firewall_(computing)
+
+#### PS.38
+
+#### PS.39
+For the details about RootKit, visit the website.
+
+https://ithelp.ithome.com.tw/articles/10220622
+
+#### PS.40
+The definition of the spam.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/spam
+
+#### PS.41
+For the details about RIP, visit the website.
+
+https://en.wikipedia.org/wiki/Routing_Information_Protocol
+#### PS.42
+You can visit the website or even buy the book if you are interested in attack in computer science.
+
+https://www.sciencedirect.com/topics/computer-science/flooding-attack
+#### PS.43
 #### PS.1
 #### PS.1
 #### PS.1
