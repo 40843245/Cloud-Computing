@@ -13,7 +13,7 @@ To prevent severe damage due to client-to-client attack, as a user. We can
 
     1) Prevent to connect a malicious server as possible.
     2) Fix your bugs of OS and VM, making your device NOT more vulnerable.
-    3) Do NOT visit strange website (such as adult site, site with violence etc), prevent to connect a malicious server. They may contain malware.
+    3) Do NOT visit strange website (such as adult website, website with violence etc), prevent to connect a malicious server. They may contain malware.
     4) Do NOT download or install unknown app, making your device NOT more vulnerable. 
     etc
     
