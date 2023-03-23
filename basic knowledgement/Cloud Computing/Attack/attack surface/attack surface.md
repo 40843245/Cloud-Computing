@@ -10,6 +10,11 @@ The following figure illustrates the covert channel between VM Virtualboxes.
 
 ![image](https://user-images.githubusercontent.com/75050655/227123271-abea08cc-9bf1-4fc4-a6de-d93760796ee2.png)
 
+##### Ref
+https://en.wikipedia.org/wiki/Covert_channel
+
+https://ithelp.ithome.com.tw/articles/10256429
+
 #### Side-channel attack
 It refers to guess sensitive information with known information.
 
