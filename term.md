@@ -1214,13 +1214,58 @@ https://web.dev/security-attacks/
 More precisely to say, the word <b>obviate</b>refers to remove a difficulty, especially so that action to deal with it becomes unnecessary.
 
 #### PS.59
+The word <b>locality</b> must be introduced in OS course.
+
+I remember I have wrote an article about locality and published it to GitHub.
+
+It is published in the following website.
+
+https://github.com/40843245/OS/blob/main/LocalityOfReference.docx
+
+For more details on locality of reference.
+
+https://en.wikipedia.org/wiki/Locality_of_reference
 #### PS.60
+
+The detailed definition of the phrase comprehensive analysis. (English version) 
+
+(BUT it is related to finacial)
+
+https://www.smartcapitalmind.com/what-is-comprehensive-analysis.htm
+
+The definition of the phrase. (Japanese version)
+
+It is for Japanese those are interested in knowing the phrase.
+
+(PS: It amazes me. I searched a dictionary with Japanese accidentally.)
+
+https://ejje.weblio.jp/content/COMPREHENSIVE+ANALYSIS
+
 #### PS.61
+Basic concept of SOAP.
+
+https://www.geeksforgeeks.org/basics-of-soap-simple-object-access-protocol/
+
 #### PS.62
+The origin of the word flash mob.
+
+https://en.wikipedia.org/wiki/Flash_mob
+
 #### PS.63
+
+Request rate measures how many request are sent in specified time.
+
 #### PS.64
+
+More precisely said, the word <b>counterpart</b> refers to
+
+a person or thing that has the same purpose as another one in a different place or organization
+
+https://dictionary.cambridge.org/dictionary/english/counterpart?q=counterpart+
+
 #### PS.65
 According to the article, CLASSIE is a role set based de-tection in order to defend HX-DoS attack.
+
 #### PS.66
 Reconstruct and Drop methods are used to decide which packet isaffected and should be dropped.
 ### Part 7
