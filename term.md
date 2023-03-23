@@ -827,7 +827,7 @@ https://ifip.org/
 90. different (adj.) 不同的
 91. as well as ... (adv.) 也... (PS.30)
 92. define (v.) 定義
-93. forensics (n.) 司法科學 (PS.31)
+93. forensic science (n.) 司法科學 (PS.31)
 94. capital (n.) 首都；大寫(字母) 
 95. botnet (n.) 殭屍網路攻擊 (PS.32)
 96. refer (v.) 參照
@@ -936,13 +936,55 @@ v
 #### PS.39
 #### PS.39
 #### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
+#### PS.27
+#### PS.28
+comprehend (v.) 領悟
+
+It refers to understand something completely
+
+According to the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/comprehend
+
+
+More precise to say, the word comprehensive refers <b>complete and including everything that is necessary.</b>
+
+According to the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/comprehensive
+
+#### PS.29
+There are lots of meaning of the word study.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/study?q=study+
+
+#### PS.30
+
+For the usage and example of the phrase <b>as well as</b>, you can visit the website.
+
+Japenese website:
+
+    https://eigobu.jp/magazine/as-well-as
+
+NOTE that <b>as well as</b> is NOT equivalent to <b>and</b>
+
+    https://zhuanlan.zhihu.com/p/136302624
+
+#### PS.31
+For more details about forensic science, visit the website.
+
+https://en.wikipedia.org/wiki/Forensic_science
+
+#### PS.32
+For more details about botnet, visit the website.
+
+https://en.wikipedia.org/wiki/Botnet
 #### PS.33
+
+The app (application) is a kind of program that can help you perform a specific task.
+
+https://en.wikipedia.org/wiki/Application_software
+
 #### PS.34
 physical hardware is opposite of virtual hardware.
 
