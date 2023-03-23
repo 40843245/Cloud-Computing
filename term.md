@@ -942,17 +942,35 @@ v
 #### PS.39
 #### PS.39
 #### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
-#### PS.39
+#### PS.33
+#### PS.34
+physical hardware is opposite of virtual hardware.
+
+According to the website.
+
+https://www.sciencedirect.com/topics/computer-science/physical-hardware
+#### PS.35
+For more details about session, visit the website.
+
+https://ithelp.ithome.com.tw/articles/10206983
+#### PS.36
+It impacts on sth 
+= It affects on sth
+= It influence on sth
+
 #### PS.37
-For the details about firewalls, visit the website.
+For more details about firewalls, visit the website.
 
 https://en.wikipedia.org/wiki/Firewall_(computing)
 
 #### PS.38
+For the word misconfiguration.
+    
+    mis-: wrong
+    
+For more details about security misconfiguration, visit the website.
 
+https://ithelp.ithome.com.tw/articles/10217607
 #### PS.39
 For the details about RootKit, visit the website.
 
