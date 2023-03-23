@@ -886,6 +886,10 @@ https://ifip.org/
 149. counterpart (n.) （與不同地方或組織的人或物）作用相同者，相對應者 (PS.64)
 150. CLASSIE (abbr.) (I don't know) (PS.65)
 151. Reconstruct and Drop method (I don't know) (PS.66)
+152. differentiate (v.) 區分
+153. illegitimate (adj.) 不被法律許可的
+154. degrade the performance (ph.) 降低效能
+155. meanwhile (adv.) 同時
 
 #### PS.1
 For introudction to cloud model, visit the website.
