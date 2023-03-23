@@ -858,6 +858,9 @@ https://ifip.org/
 121. HX-DoS attack (ph.) (stands for HyperExtension) (PS.52)
 122. environment (n.) 環境
 123. virtualize (v.) 虛擬化
+124. turn into (v.) 轉變成
+125. be prone to ... (adj.) 容易於...
+126. pull ... from sth (ph.) 從sth中提取...
 
 #### PS.1
 For introudction to cloud model, visit the website.
