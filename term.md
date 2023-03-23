@@ -1139,22 +1139,46 @@ For the details about Hypervisor Rootkit, visit the article.
 https://link.springer.com/chapter/10.1007/978-3-319-50011-9_29
 
 #### PS.44
+For the details about covert channel, see my notes which is also availible at:
+
+https://github.com/40843245/Cloud-Computing/blob/main/basic%20knowledgement/Cloud%20Computing/Attack/attack%20surface/attack%20surface.md
+
+#### PS.45
 side-channel attack refers to attempt to know sensitive information by predicting with known information.
 
 For the details about side-channel attack, visit the article.
 
 https://en.wikipedia.org/wiki/Side-channel_attack
 
-or see my notes which is available at.
+or see my notes which is available at:
 
-#### PS.1
-#### PS.1
-#### PS.1
-#### PS.1
-#### PS.1
-#### PS.1
+https://github.com/40843245/Cloud-Computing/blob/main/basic%20knowledgement/Cloud%20Computing/Attack/attack%20surface/attack%20surface.md
+
+#### PS.46
+For the details about leak, visit the website.
+
+https://dictionary.cambridge.org/dictionary/english/leak?q=leak+
+
+#### PS.47
+#### PS.48
+#### PS.49
+#### PS.50
+#### PS.51
+#### PS.52
+#### PS.53
 #### PS.54
 ![image](https://user-images.githubusercontent.com/75050655/227113147-5a1f237d-b3f5-4c95-b9aa-203e879cb101.png)
+
+#### PS.55
+#### PS.56
+#### PS.57
+#### PS.58
+#### PS.59
+#### PS.60
+#### PS.61
+#### PS.62
+#### PS.63
+#### PS.64
 #### PS.65
 According to the article, CLASSIE is a role set based de-tection in order to defend HX-DoS attack.
 #### PS.66
