@@ -734,7 +734,7 @@ For more details about IFIP, visit
 
 https://ifip.org/
 
-## Part 5 (On cloud security attacks A taxonomy and intrusion detection and prevention as a service.pdf)
+## Part 6 (On cloud security attacks A taxonomy and intrusion detection and prevention as a service.pdf)
 1. cloud model (n.) 雲端模型 (PS.1)
 2. taxonomy (n.) 分類學 (PS.2)
 3. a range of ... (n.)  一系列的...
@@ -898,12 +898,19 @@ https://en.wikipedia.org/wiki/Cloud_computing
 
 
 #### PS.2
+For introudction to taxonomy, visit the website.
+
+https://en.wikipedia.org/wiki/Taxonomy
 #### PS.3
 with respect to = about = concerning 
 
 From the website:
 https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%B3%95%E8%AA%9E/with-respect-to
 
+#### PS.4
+intrusion (n.) 入侵 
+intrude (v.)  入侵
+intrusive (adj.) 擾人的
 
 #### PS.39
 #### PS.39
@@ -978,7 +985,7 @@ https://www.sciencedirect.com/topics/computer-science/flooding-attack
 According to the article, CLASSIE is a role set based de-tection in order to defend HX-DoS attack.
 #### PS.66
 Reconstruct and Drop methods are used to decide which packet isaffected and should be dropped.
-### Part 6
+### Part 7
 
 
 
