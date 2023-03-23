@@ -861,6 +861,14 @@ https://ifip.org/
 124. turn into (v.) 轉變成
 125. be prone to ... (adj.) 容易於...
 126. pull ... from sth (ph.) 從sth中提取...
+127. unwanted result (ph.) 非我們想要的結果；非預期的結果 (PS.53)
+128. disruption (n.) 顛覆 (PS.54) 
+129. framework (n.) 框架；架構 (PS.55)
+130. disrupt (v.) 打斷
+131. container (n.) 容器；裝東西的東東 (PS.56)
+132. security attack (ph.) 秘密的攻擊 (PS.57)
+133. obviate (v.) 排除 (PS.58)
+134. data locality (n.) (PS.59)
 
 #### PS.1
 For introudction to cloud model, visit the website.
@@ -887,7 +895,8 @@ https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%B
 #### PS.1
 #### PS.1
 #### PS.1
-#### PS.1
+#### PS.54
+![image](https://user-images.githubusercontent.com/75050655/227113147-5a1f237d-b3f5-4c95-b9aa-203e879cb101.png)
 
 
 
