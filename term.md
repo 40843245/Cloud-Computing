@@ -334,7 +334,7 @@ From the NIST article,
 36. once more (ph.) (=another time) (PS.5)
 37. scale out ... (ph.) 超過...的範圍
 38. nevertheless (adv.) 儘管如此
-39. sharding (PS.6) 
+39. sharding (I don't know how to translate it) (PS.6) 
 40. small-scope (adj.) 小範圍的
 41. transaction (n.) 貿易
 42. bypass (v.) 繞過；忽略
@@ -468,14 +468,14 @@ By the article, it refers that it may, or may not use schema
 24. intention (n.) 目的
 25. extensibilty (n.) 延伸性
 26. cost-saving method (ph.) 節省成本的方法
-27. critical (adj.) 至關重要的 ; 困難重重的
-28. critical information (ph.) 至關重要的資訊 (PS.5)
-29. 
+27. involve (v.) 包括；包含
+28. critical (adj.) 至關重要的 ; 困難重重的
+29. critical information (ph.) 至關重要的資訊 (PS.5)
 30. review (n.) 複習；重新審視
 31. failure (n.) 故障；失靈 (PS.6)
 32. mitigation action (ph.) 搬移計畫 (PS.7)
 33. publish (v.) 發行
-34. API (abbr.) (stands for application programming interface )(PS.8)
+34. API (abbr.) (stands for application programming interface) (PS.8)
 35. malicious (adj.) 惡意的；不懷好意的 (PS.9)
 36. malicious-insider threat (PS.10)
 37. gateway (n.) 閘道
@@ -515,6 +515,16 @@ By the article, it refers that it may, or may not use schema
 71. exploit (v.) (n.) 利用；剝削 (PS.36) 
 72. actual (adj.) 實際上的
 73. phase (n.) (在基本電學中) 相位；（發展或變化的）階段 (v.) 分階段實施 (PS.37)
+74. man-in-the-middle attack (ph.) 中間人攻擊 (PS.38)
+75. WSDL (abbr.) (stands for Web Services Description Language) (PS.39)
+76. succeed (v.) 成功
+77. virtualized level (ph.) 虛擬層
+78. a collection of ... (n.) ...的集合
+79. confidential (adj.) 機密的
+80. document (n.) 文件
+81. layer (n.) 層
+82. VM rollback attack (ph.) VM 降級攻擊 (PS.40)
+83. 
 
 ### PS.1 
 accountable (adj.) 應該對自己的行為負責的
@@ -553,8 +563,6 @@ The comparison of  critical information and sensitive information is illustrate 
 In the above figure, there are lots of critivcal information.
 
 Sensitive information is a subset of critica information.
-
-
 
 ### PS.6
 There are lots of definitions about the word <b>failure</b>.
@@ -639,15 +647,18 @@ See my notes.
 ### PS.22
 
 See my notes.
+
 ### PS.23
 For more details about the word <b>anomynous</b>,visit the website.
 
 https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/anonymous?q=anonymous+
+
 ### PS.24
 
 For more details about the word <b>sign</b>,visit the website.
 
 https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/sign
+
 ### PS.25
 
 A anoynomus sign refers a person who don't want to make other people knows his or her identifications.
@@ -750,6 +761,36 @@ https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%B
 While, the website (wiki) explains the phase in electricity.
 
 https://en.wikipedia.org/wiki/Phase_(waves)
+
+### PS.38
+
+https://en.wikipedia.org/wiki/Man-in-the-middle_attack
+
+### PS.39
+
+### PS.40
+To fully understand what is VM rollback attack.
+
+I recommend you visit the website and select the first link as option.
+
+https://en.wikipedia.org/wiki/Rollback_attack
+
+
+
+### PS.39
+### PS.39
+### PS.39
+### PS.39
+### PS.39
+### PS.39
+### PS.39
+### PS.39
+### PS.39
+### PS.39
+### PS.39
+### PS.39
+### PS.39
+### PS.39
 
 ## Part 4 (A Survey on the Security of Cloud Computing 20020218.pptx)
 1. countermeasure (n.) 應對措施
