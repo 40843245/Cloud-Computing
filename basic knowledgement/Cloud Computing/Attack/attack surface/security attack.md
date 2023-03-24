@@ -157,14 +157,30 @@ NOTE that:
   
     1) safely algorithm refers the algorithm which, for any ciphertexts, it can NOT must decrypt in available time (such as in NP time).
     
-For more details about encryption and decryption, see my notes or study information security (中文譯:資訊安全).
 
-### M
+
+### My Notes
+
+For more details about encryption and decryption, see my notes or study information security (中文譯:資訊安全) or cryptography (中文譯:密碼學).
+
+https://github.com/40843245/Information_Security/blob/main/Basic%20knowledgement/process%20of%20encryption%20and%20decryption.md
 
 4) Metadata spoofing attack
 
+### Intro
+
+Metadata refers <b>data about data</b>
+
+Typically, metadata store sensitivie data.
+
+The major step of this attack is 
+
+    1) spoofing the metadata
+    2) read the metadata and gain important sensitive data.
         
-        
+![image](https://user-images.githubusercontent.com/75050655/227442667-da1eedc7-6260-495f-9344-e41381838155.png
+
+
         
         
 
