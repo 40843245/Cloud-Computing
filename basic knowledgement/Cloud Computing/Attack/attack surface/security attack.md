@@ -12,6 +12,7 @@ In this artcile, I will simply discuss the security attack in each cloud layer.
 Let's get started.
 
 ## Security attack on SaaS cloud layer
+It involves:
 
 1) Dos attack and its extension.
 
@@ -31,7 +32,7 @@ For more details, see my notes.
         
         For example, in Linux system, to enter the root account, just type these command in terminal.
         
-        <b>sudo -i</b>
+        sudo -i
         
         Then the system will require your password.
         
@@ -39,8 +40,110 @@ For more details, see my notes.
         
         you should know.
         
+3) SQL-injection attack
+
+For more details, see my notes.
+
+## Security attack on PaaS cloud layer
+It involves
+
+1) Phisihing attack
+    
+        Phishing refers direct the user into a fake website (and of course, mislead the user the website is safe), misleading the user input sensitive information in the fake website.
+        
+        Here, some readers may think it is easy to recognize a website is fake or not. Just very careful to the url.
+        
+        NOPE!!! 
+        
+        It is NOT easy.
+        
+        However, there are some features of a fake website. We can according to them to filter some phishing websites.
+        
+        Before continue reading, I recommend you to spend some time on thinking that if you are an attack how to make a fake website and seems to be an unfake website 
+        
+        for the user.
+        
+        Here, I list some features of a phishing website and prevent phishing attack as possible.
+        
+        1.1) First, the url of a phishing website looks like the url of  atcual website but NOT same.
+        
+        Take google webbrowser as example.
+        
+        In google webbrowser, the actual url is "https://www.google.com.tw/"
+        
+        Someone may register an url "https://www.goog1e.com.tw"
+        
+        NOTE that there are slightly difference between them. Tha latter url contains "goog1e" instead of "google". 
+         
+        To prevent to visit phishing websites, check the url carefully before visiting.
+        
+        1.2) Second, a phishing website will require some unnecessary information.
+        
+        For example, when you want to reset the password of the Google Email, it will require your email account or your telephone etc.
+        
+        It will NOT require information about your ID card and your bank account and password.
+        
+        Thus, once they are required when you reset the password of the Google Email, you have to caution. You visit a phishing website.
+        
+        Caution to required information.
+        
+        1.3) Finnally, in a phishing website, some anormal things may occur.
+        
+        Such as, when you reset password in Google Email, whatever the account you entered, it always say it is wrong or correct.
+        
+        If the above situation occur, it must be a phishing website. (... and you're too late to caution. ...)
         
         
+2) port scanning attack.        
+
+To fully understand about port scanning attack, I recommend you to comprehend these temrs <b>port</b> and <b> scanning attack</b>
+
+Scanning attack refers attacks from scanning on cloud.
+
+Look at the following figure.
+
+![image](https://user-images.githubusercontent.com/75050655/227419603-2427f44b-4b68-434c-84ba-01de7b0d8554.png)
+
+
+### Ref
+https://www.geeksforgeeks.org/what-are-scanning-attacks/
+
+
+Before introducing the term, let's quick review some basic knowledge about sending a packet in TCP.
+
+![image](https://user-images.githubusercontent.com/75050655/227423222-1bbcd7e4-d3c2-4a7b-8145-2c2dd79ac001.png)
+
+Look at the above figure.
+
+To send a package from client to server in TCP. It uses the three-hand way.
+
+    1) The client must send SYN request to the server.
+    2) The server will response the SYN also request ACK to client.
+    3) The client will response ACK to server.
+
+### Ref
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+
+The port scanning attack refers the attack involved port scanning.
+
+![image](https://user-images.githubusercontent.com/75050655/227420234-511b157f-d889-4986-b1c8-7009ce7721d0.png)
+
+### Ref
+https://www.geeksforgeeks.org/port-scanning-attack/
+
+
+        
+        
+        
+        
+        
+      
+2) Port scanning attack
+
+3) Man-in-middle attack
+
+4) Metadata spoofing attack
+
         
         
         
