@@ -124,23 +124,42 @@ To send a package from client to server in TCP. It uses the three-hand way.
 ### Ref
 https://en.wikipedia.org/wiki/Transmission_Control_Protocol
 
+### Intro
 The port scanning attack refers the attack involved port scanning.
 
+The attacker may scanning some ports and request to target to connect with the target, then sneak to perform some operations 
+
+such as download and install malware etc.
+
 ![image](https://user-images.githubusercontent.com/75050655/227420234-511b157f-d889-4986-b1c8-7009ce7721d0.png)
+
+### Prevention
+
+To prevent port scanning attack, as a user, we can built secured firewalls and apply strong security mechanism.
+
+
+![image](https://user-images.githubusercontent.com/75050655/227430105-668b1d20-8ea5-4d13-90fe-17913c188dbb.png)
 
 ### Ref
 https://www.geeksforgeeks.org/port-scanning-attack/
 
-
-        
-        
-        
-        
-        
-      
-2) Port scanning attack
-
 3) Man-in-middle attack
+
+### Intro
+In this attack, the attacker may intercept the message while transferring.
+
+### Prevention
+To prevent this, just use a safely algorithm to encrypt the message into ciphertext before transferring.
+
+By doing this, if the attacker intercepts successfully, then one will get its ciphertext. To get plaintext, one must decrypt it.
+
+NOTE that:
+  
+    1) safely algorithm refers the algorithm which, for any ciphertexts, it can NOT must decrypt in available time (such as in NP time).
+    
+For more details about encryption and decryption, see my notes or study information security (中文譯:資訊安全).
+
+### M
 
 4) Metadata spoofing attack
 
