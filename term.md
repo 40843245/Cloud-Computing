@@ -473,9 +473,9 @@ By the article, it refers that it may, or may not use schema
 29. 
 30. review (n.) 複習；重新審視
 31. failure (n.) 故障；失靈 (PS.6)
-32. mitigation action (ph.) (PS.7)
+32. mitigation action (ph.) 搬移計畫 (PS.7)
 33. publish (v.) 發行
-34. API (abbr.) (PS.8)
+34. API (abbr.) (stands for application programming interface )(PS.8)
 35. malicious (adj.) 惡意的；不懷好意的 (PS.9)
 36. malicious-insider threat (PS.10)
 37. gateway (n.) 閘道
@@ -487,8 +487,8 @@ By the article, it refers that it may, or may not use schema
 43. credential (n.) 身分信用資訊 (PS.14)
 44. divert (v.) 誘導他人去做某件事 (PS.15)
 45. abuse (n.) 濫用；虐待
-46. stackholder (n.)  (PS.16)
-47. varied (adj.)  
+46. stackholder (n.)  股東(PS.16)
+47. varied (adj.)  有變化的
 48. interest (n.) 興趣；利息；(PS.17)
 49. denial (adj.) (PS.18)
 50. DoS attack (abbr.) (stands for Denial of Service) 阻斷式攻擊 (PS.19)
@@ -499,25 +499,22 @@ By the article, it refers that it may, or may not use schema
 55. lack (n.) 缺乏
 56. validation (n.) 有效性
 57. anonymous (adj.) 匿名的 (PS.23)
-58. sign (PS.24)
+58. sign 象徵 (PS.24)
 59. anonymous sign (n.) 匿名者 (PS.25)
 60. fraud (n.) 欺騙；欺瞞 (PS.26)
-61. spoof (v.) (PS.27)
-62. spoofed link (n.) (PS.28)
-63. phishing (n.) (PS.29)
-64. abusive (adj.) (PS.30)
-65. abusive behaviour (PS.31)
-66. social-engineering technique (n.) (PS.32)
+61. spoof (v.) 欺瞞 (PS.27)
+62. spoofed link (n.) 造假且惡意的網址 (PS.28)
+63. phishing (n.) 釣魚 (PS.29)
+64. abusive (adj.) 氾濫的 (PS.30)
+65. abusive behaviour (ph.) 濫用行為 (PS.31)
+66. social-engineering technique (n.) 社交工程 (PS.32)
 67. port scanning attack (n.) (PS.33)
-68. famous (adj.) (PS.34)
-69. aim (n.) (PS.35)
-70. exact (adj.) 
-71. exploit (v.) (n.) (PS.36)
-72. actual (adj.)
-73. phase (n.) (PS.37)
-74. 
-
-
+68. famous (adj.) 有好名氣的；受歡迎的 (PS.34)
+69. aim (n.) 目標 (PS.35) 
+70. exact (adj.) 確切的 
+71. exploit (v.) (n.) 利用；剝削 (PS.36) 
+72. actual (adj.) 實際上的
+73. phase (n.) (在基本電學中) 相位；（發展或變化的）階段 (v.) 分階段實施 (PS.37)
 
 ### PS.1 
 accountable (adj.) 應該對自己的行為負責的
@@ -544,50 +541,215 @@ https://www.geeksforgeeks.org/breaking-cryptography/
 
 ### PS.5  critical information v.s. sensitive information
 
-### PS.6
+critical information refers the data in critical but not lose money or benefits whenn it is known by othere people.
 
+sensitive information refers the data in critical and but may lose money or benefits whenn it is known by othere people.
+
+
+The comparison of  critical information and sensitive information is illustrate as follows.
+
+![image](https://user-images.githubusercontent.com/75050655/227395568-c76e4473-b113-4ad1-9818-c4422adbd420.png)
+
+In the above figure, there are lots of critivcal information.
+
+Sensitive information is a subset of critica information.
+
+
+
+### PS.6
+There are lots of definitions about the word <b>failure</b>.
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/failure
 ### PS.7
 
+https://www.sciencedirect.com/topics/computer-science/mitigation-action
+
 ### PS.8
+        
+https://en.wikipedia.org/wiki/API
 
 ### PS.9
 
+We can say that intentionally and harmful software is a malicious software.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/malicious
+
 ### PS.10
 
-For the word about insider threat,
+To fully understand the word <b>insider-threat attack</b>,
+
+I recommend you to understand what is insider threat first.
 
 https://en.wikipedia.org/wiki/Insider_threat
 
 ### PS.11
-
+For more details on webrowser hijacking, visit the website.
+    
+https://en.wikipedia.org/wiki/Browser_hijacking
 ### PS.12
+launching base (n.) 發射基地
 
 ### PS.13
+There are lots of definitions of the word <b>account</b>.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/account?q=account+
 
 ### PS.14
 
+More precisely said, the word <b>credential</b> refers to a piece of information that is sent from one computer to another to check that a user 
+
+is who they claim to be or to allow someone to see information.
+
 ### PS.15
+More precisely said, the word <b>divert</b> refers to take someone's attention away from something.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/divert?q=divert+
 
 ### PS.16
 
-### PS.17
+For more details about the word <b>stackholder</b>,visit the website.
 
+https://dictionary.cambridge.org/zht/spellcheck/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/?q=stackholder+
+
+### PS.17
+For more details about the word <b>interest</b>,visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/interest?q=interest+
 ### PS.18
 
+Denial is the adjective form of the word <b>deny</b>.
+
+For more details about the word <b>denial</b>,visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/denial?q=denial+
+ 
 ### PS.19
 
+See my notes.
+
+
 ### PS.20
+For more details about the word <b>vitctim</b>,visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/victim?q=victim+
 
 ### PS.21
 
+See my notes.
+
 ### PS.22
 
+See my notes.
 ### PS.23
+For more details about the word <b>anomynous</b>,visit the website.
 
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/anonymous?q=anonymous+
 ### PS.24
 
+For more details about the word <b>sign</b>,visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/sign
 ### PS.25
 
+A anoynomus sign refers a person who don't want to make other people knows his or her identifications.
+
+### PS.26
+There are slightly difference between the word <b>fraud</b> and <b>spoof</b>, the fraud are deceiving someone intentionally and maliciously.
+
+Frauding is always illegal.
+
+But, spoofing may be illegal or legal.
+
+More precisely said, fraud refers to the crime of getting money by deceiving people.
+
+According to the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/fraud?q=fraud+
+
+### PS.27
+
+Visit the website.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/spoof
+
+### PS.28
+
+Spoofed link refers to a fake link that try to deceit user to input one's sensitive information or do something after one click the link.
+
+https://en.wikipedia.org/wiki/Spoofed_URL
+
+### PS.29
+
+Visit the websites.
+
+https://en.wikipedia.org/wiki/Phishing
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/phishing?q=phishing+
+### PS.30
+The word <b>abusive</b> is the adjective form of <b>abuse</b>.
+
+Abuse (n.) (v.) 虐待；濫用
+
+    ab-: away
+    -use- : use (v.) (n.) 使用
+
+
+### PS.31
+List of common abusive behavior.
+
+https://www.healthyplace.com/abuse/articles/list-of-abusive-behaviors
+### PS.32
+Visit the website.
+
+https://en.wikipedia.org/wiki/Social_engineering_(security)
+### PS.33
+To fully understand the phrase port scanning attack.
+
+I recommend you to comprehend these words first.
+
+    1) port
+
+English version:
+
+https://en.wikipedia.org/wiki/Port_(computer_networking)
+
+Chinese version:
+
+https://zh.wikipedia.org/zh-tw/%E9%80%9A%E8%A8%8A%E5%9F%A0
+
+Japanese version
+
+https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%88_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)
+
+    2) port scanner and port scanning
+    
+ https://en.wikipedia.org/wiki/Port_scanner
+ 
+    3) scanning attack
+    
+https://www.geeksforgeeks.org/port-scanning-attack/
+### PS.34
+    
+    1)famous =
+    popular
+
+    2) be famous for ... v.s. be famous as ...
+https://blog.english4u.net/blog2.aspx?id=533
+### PS.35
+aim =
+goal 
+
+### PS.36
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/exploit
+### PS.37
+
+The website explains the word <b>phase</b>.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/phase?q=phase+
+
+While, the website (wiki) explains the phase in electricity.
+
+https://en.wikipedia.org/wiki/Phase_(waves)
 
 ## Part 4 (A Survey on the Security of Cloud Computing 20020218.pptx)
 1. countermeasure (n.) 應對措施
@@ -1269,8 +1431,4 @@ According to the article, CLASSIE is a role set based de-tection in order to def
 #### PS.66
 Reconstruct and Drop methods are used to decide which packet isaffected and should be dropped.
 ### Part 7
-
-
-
-
 
