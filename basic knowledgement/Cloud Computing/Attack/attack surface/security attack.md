@@ -178,7 +178,7 @@ The major step of this attack is
     1) spoofing the metadata
     2) read the metadata and gain important sensitive data.
         
-![image](https://user-images.githubusercontent.com/75050655/227442667-da1eedc7-6260-495f-9344-e41381838155.png
+![image](https://user-images.githubusercontent.com/75050655/227442747-4433f0a0-0adf-4474-b10b-fb387a053978.png)
 
 
         
