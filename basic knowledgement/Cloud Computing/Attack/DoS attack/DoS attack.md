@@ -33,6 +33,15 @@ Send lots of HTTP requests simultaneously.
     Send lots of requests simultaneously with POST method.
     
     
+### TCP flood attack
+Send lots of TCP requests simultaneously.
+
+### SYN flood attack
+Send lots of SYN requests simultaneously.
+
+### UDP attack
+Send lots of UDP requests simultaneously.
+
 ## Common target
 ![image](https://user-images.githubusercontent.com/75050655/227119939-be00b0ee-0c6f-45c3-a245-3a8a1c45155a.png)
 
