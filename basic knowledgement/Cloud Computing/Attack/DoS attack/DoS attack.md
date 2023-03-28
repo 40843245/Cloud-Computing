@@ -11,12 +11,22 @@ https://en.wikipedia.org/wiki/SOAP
 ### Isolation
 
 ## Category
+
+1. DDos attack.
+
+visit 
+https://github.com/40843245/Cloud-Computing/blob/main/basic%20knowledgement/Cloud%20Computing/Attack/DoS%20attack/DDoS%20attack.md
+
+2. For flood attack.
     
     1)HTTP flood attack
     2)TCP flood attack
     3)SYN flood attack
     4)UDP flood attack
 
+3. HX-Dos Attack.
+
+visit
 
 ### HTTP flood attack
 Send lots of HTTP requests simultaneously.
