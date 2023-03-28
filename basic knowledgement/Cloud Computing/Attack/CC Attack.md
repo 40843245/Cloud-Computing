@@ -38,10 +38,10 @@ The resource can be categorized into three types as follows.
 
 ## Summary
 
-### Summary of way to against attacks
+### Summary of ways to against attacks
 ![image](https://user-images.githubusercontent.com/75050655/228117035-a5e14201-5332-46a0-94cf-73f53ce8f168.png)
 
-
+### Summary of ways of attack surface
 ![image](https://user-images.githubusercontent.com/75050655/227114759-090d5485-81c6-44a5-94e5-b1fc640974aa.png)
 
     
