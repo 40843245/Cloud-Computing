@@ -31,7 +31,17 @@ The resource can be categorized into three types as follows.
 
 ![image](https://user-images.githubusercontent.com/75050655/227112473-d8605cca-962c-40aa-a6c3-755af7720e9a.png)
 
-## S
+## Comparison table
+### Survey of CC attack.
+![image](https://user-images.githubusercontent.com/75050655/228113927-d902321b-d3be-4bc1-a6b4-25eed48ac377.png)
+
+
+## Summary
+
+### Summary of way to against attacks
+![image](https://user-images.githubusercontent.com/75050655/228117035-a5e14201-5332-46a0-94cf-73f53ce8f168.png)
+
+
 ![image](https://user-images.githubusercontent.com/75050655/227114759-090d5485-81c6-44a5-94e5-b1fc640974aa.png)
 
     
