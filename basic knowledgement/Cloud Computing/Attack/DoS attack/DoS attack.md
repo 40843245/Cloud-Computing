@@ -19,10 +19,10 @@ https://github.com/40843245/Cloud-Computing/blob/main/basic%20knowledgement/Clou
 
 2. For flood attack.
     
-    1)HTTP flood attack
-    2)TCP flood attack
-    3)SYN flood attack
-    4)UDP flood attack
+        1)HTTP flood attack
+        2)TCP flood attack
+        3)SYN flood attack
+        4)UDP flood attack
 
 3. HX-Dos Attack.
 
