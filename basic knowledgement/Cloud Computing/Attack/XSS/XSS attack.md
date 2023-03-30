@@ -41,3 +41,28 @@ The above two examples are equivalent. When you click a button which is texted "
 If one injects malicious code (such as look at cookies of your webbrowser), Wow it scares me.
   
 Such this attack is called XSS attack.
+
+## Category
+  
+There are two fundamental XSS attack.
+  
+  1) Reflected XSS
+  
+  2) Stored XSS
+  
+### Reflected XSS
+  
+  ![image](https://user-images.githubusercontent.com/75050655/228729451-cf8bc7e6-8510-4480-9b50-1bcd593951fe.png)
+  
+### Stored XSS
+  
+  ![image](https://user-images.githubusercontent.com/75050655/228729556-b3143b84-5fd1-4c15-aa59-01895933744c.png)
+
+### DOM based XSS
+  
+Its instance is reflected and stored.
+  
+  
+### Ref
+  
+https://www.geeksforgeeks.org/what-is-cross-site-scripting-xss/
