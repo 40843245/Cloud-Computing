@@ -62,7 +62,20 @@ There are two fundamental XSS attack.
   
 Its instance is reflected and stored.
   
+## XSS attack v.s SQL injection attack
   
-### Ref
+XSS attack refers attacks to insert malicious code in html.
+  
+SQL injection attack refers attacks to insert a or some commands in SQL statement, to successful login without correct password.
+  
+  
+  
+## Ref
+  
+What is XSS?
   
 https://www.geeksforgeeks.org/what-is-cross-site-scripting-xss/
+  
+  
+XSS attack v.s SQL injection attack
+https://www.geeksforgeeks.org/difference-between-xss-and-sql-injection/?ref=rp
