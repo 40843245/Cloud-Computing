@@ -9,5 +9,5 @@ Recall that
   Consider the following example.
   
               
-   <!DOCTYPE html5>
+    <!DOCTYPE html5>
 
