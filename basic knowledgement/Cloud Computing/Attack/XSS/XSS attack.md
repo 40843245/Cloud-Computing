@@ -12,6 +12,14 @@ Recall that
     <!DOCTYPE html5>
   
     <html>
-      
+      <script> 
+        function Notify()
+        {
+          alert("1");
+        }
     </html>
+  
+    <body>
+        <button onclick="Notify();">Submit</button>
+    </body>
 
