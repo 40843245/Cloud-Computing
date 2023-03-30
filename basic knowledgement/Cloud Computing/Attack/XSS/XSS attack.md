@@ -12,15 +12,11 @@ Recall that
     <!DOCTYPE html5>
   
     <html>
-      <script> 
-        function Notify()
-        {
-          alert("1");
-        }
+   
     </html>
   
     <body>
-        <button onclick="Notify();">Submit</button>
+        <button onclick="alert("1");">Submit</button>
     </body>
       
   and 
@@ -33,9 +29,15 @@ Recall that
         {
           alert("1");
         }
+      </script>
     </html>
   
     <body>
         <button onclick="Notify();">Submit</button>
     </body>
 
+The above two examples are equivalent. When you click a button which is texted "Submit", then the alert("1") was invoked.
+  
+If one injects malicious code (such as look at cookies of your webbrowser), Wow it scares me.
+  
+Such this attack is called XSS attack.
