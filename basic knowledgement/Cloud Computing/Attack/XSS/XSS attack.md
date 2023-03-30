@@ -24,7 +24,8 @@ Recall that
     </body>
       
   and 
-      <!DOCTYPE html5>
+    
+    <!DOCTYPE html5>
   
     <html>
       <script> 
