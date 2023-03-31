@@ -1114,8 +1114,17 @@ https://ifip.org/
 174. correction (n.) 糾正
 175. likewise (adv.) 同理來說
 176. till (conj.) 直到 (PS.71)
-177. ICLEEDS (abbr.) (stands for <b>I</b>ntelligent <b>Cl</b>oud Based <b>E</b>mail <b>E</b>ncryption and <b>D</b>ecryption <b>S</b>ystems)
-178. 
+177. ICLEEDS (abbr.) (stands for <b>I</b>ntelligent <b>Cl</b>oud Based <b>E</b>mail <b>E</b>ncryption and <b>D</b>ecryption <b>S</b>ystems) (PS.72)
+178. focal (adj.) 聚焦的
+179. point (n.) 點；觀點
+180. focal point (ph.) 聚焦點
+181. traffic data (PS.73)
+182. password reset attack (ph.) 重設密碼攻擊
+183. character (n.) 字元；特性
+184. combination (n.) 組合
+185. recover (v.) 回復
+186. content (n.) 內容
+187. recovery (n.) (noun formal of recover)
 
 #### PS.1
 For introudction to cloud model, visit the website.
