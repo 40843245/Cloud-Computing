@@ -1256,10 +1256,10 @@ https://ifip.org/
 316. disable (v.) 禁能 (致能的相反)
 317. hybrid (adj.) 混和的 (PS.141)
 318. delay measurement (ph.) 延遲測量 (PS.142)
-319. ICMP 
+319. ICMP (abbr.) (stands for Internet Control Message Protocol) (PS.143) 
 320. time-lag
-321. counter 
-322. file system rollback attacks
+321. counter ()
+322. file system rollback attacks ()
 323. Stepping-stone attack
 324. patches
 325. intermediary 
@@ -1666,5 +1666,101 @@ According to the article, CLASSIE is a role set based de-tection in order to def
 
 #### PS.66
 Reconstruct and Drop methods are used to decide which packet isaffected and should be dropped.
-### Part 7
+
+#### PS.67
+#### PS.68
+#### PS.69
+#### PS.70
+#### PS.71
+#### PS.72
+#### PS.73
+#### PS.74
+#### PS.75
+#### PS.76
+
+#### PS.77
+#### PS.78
+#### PS.79
+#### PS.80
+#### PS.81
+#### PS.82
+#### PS.83
+
+#### PS.84
+#### PS.85
+#### PS.86
+#### PS.87
+#### PS.88
+#### PS.89
+#### PS.90
+#### PS.91
+#### PS.92
+#### PS.93
+#### PS.94
+#### PS.95
+
+#### PS.96
+#### PS.97
+#### PS.98
+#### PS.99
+#### PS.100
+
+
+#### PS.101
+#### PS.102
+#### PS.103
+#### PS.104
+#### PS.105
+#### PS.106
+
+#### PS.107
+
+#### PS.108
+
+#### PS.109
+#### PS.110
+#### PS.111
+
+#### PS.112
+#### PS.113
+#### PS.114
+#### PS.115
+#### PS.116
+#### PS.117
+#### PS.118
+#### PS.119
+#### PS.120
+#### PS.121
+#### PS.122
+#### PS.123
+#### PS.124
+#### PS.125
+#### PS.126
+#### PS.127
+
+#### PS.128
+#### PS.129
+#### PS.130
+#### PS.131
+#### PS.132
+#### PS.133
+#### PS.134
+#### PS.135
+#### PS.136
+#### PS.137
+#### PS.138
+#### PS.139
+#### PS.140
+#### PS.141
+#### PS.142
+#### PS.143
+
+https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol
+
+#### PS.144
+#### PS.145
+#### PS.146
+#### PS.147
+#### PS.148
+
 
