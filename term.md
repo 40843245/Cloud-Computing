@@ -15,7 +15,7 @@
 13. Act (n.) 法案 (註:其實它的意思很多)
 14. Public Law (n.) 公開的法案
 15. Federal Information Security Management Act  (FISMA) (n.) 聯邦資訊安全管理法 
-16. Office  of  Management and Budget (OMB) (n.) 美國行政管理和預算局
+16. Office of Management and Budget (OMB) (n.) 美國行政管理和預算局
 17. Agency (n.) 機構 (註:但它跟institute有些許不同，其實它的意思很多)
 18. Supplemental (adj.) 補足的
 19. nongovernmental (adj.) 非政府的
@@ -1257,20 +1257,20 @@ https://ifip.org/
 317. hybrid (adj.) 混和的 (PS.141)
 318. delay measurement (ph.) 延遲測量 (PS.142)
 319. ICMP (abbr.) (stands for Internet Control Message Protocol) (PS.143) 
-320. time-lag
-321. counter ()
-322. file system rollback attacks ()
-323. Stepping-stone attack
-324. patches
-325. intermediary 
-326. packets 
-327. botnet
-328. trace 
-329. botmater
-330. Pebble trace scheme
-331. botmaster
-332. deploying 
-333. router updates
+320. time-lag (n.) 時間差
+321. counter (n.) 計數器；計時器
+322. file system rollback attacks (ph.) 檔案系統回朔攻擊
+323. Stepping-stone attack (ph.) 墊腳石攻擊 (PS.144)
+324. patch (n.) 補丁 (其實有很多意思) (PS.145)
+325. intermediary (n.) 調解人 (PS.146)
+326. packet (n.) 封包 (其實有很多意思) (PS.147) 
+327. botnet (n.) 殭屍網路 (PS.148) 
+328. trace (v.) (n.) 回朔 
+329. botmaster (n.) 控制殭屍裝置者 (PS.149)
+330. Pebble trace scheme (PS.150) 
+331. deploy (v.) 運用
+332. router (n.) 路由器 (PS.151)
+333. router updates 
 334. interfere 
 335. Return-oriented programming attack (ph.)
 336. signify 
@@ -1762,5 +1762,162 @@ https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol
 #### PS.146
 #### PS.147
 #### PS.148
+#### PS.149
+#### PS.150
+#### PS.151
+https://en.wikipedia.org/wiki/Router_(computing)
 
-
+#### PS.152
+#### PS.153
+#### PS.154
+#### PS.155
+#### PS.156
+#### PS.157
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148#### PS.148
+#### PS.148
+#### PS.148
+v
+#### PS.148
+#### PS.148
+v
+#### PS.148
+#### PS.148
+v
+#### PS.148
+#### PS.148
+v
+#### PS.148
+#### PS.148
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+#### PS.148
+v
+v
+v
+#### PS.148
+v
+v
+v
+#### PS.148
+v
+v
+#### PS.148
+v
+v
+v
+v
+v
+v
+v
+v
+v
+#### PS.148
+v
+#### PS.148
+v
+v
+v
+v#### PS.148#### PS.148
+v
+v#### PS.148
+v
+v
+vv
+v
+v
+v
+v
+v#### PS.148v
+v
+v
+v
+v
+v
+v
+vvv
+v
+#### PS.148
+v
+vvv
+v#### PS.148
+#### PS.148
+v
+v
+v
+v
+#### PS.148
+v
+v
+v
+#### PS.148
+v
+v
+v
+v
+v
+vvv
+v
+v#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+v
+v
+#### PS.148
+v
+v
+v
+v
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
+#### PS.148
