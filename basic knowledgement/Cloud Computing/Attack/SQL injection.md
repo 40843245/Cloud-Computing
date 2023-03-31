@@ -57,6 +57,36 @@ There are 4 major SQL injection attack. (thanks to GeeksForGeeks)
 
 3. Blind Boolean-based SQLi: Boolean-based SQL Injection works by submitting a SQL query to the database and forcing the application to produce a different response depending on whether the query returns TRUE or FALSE.
 
+(Hint: 
+
+Recall the critical feature in SQL which is similar to C/C++.
+
+Given one expression, if it can determined to true or false, then it will NOT continue to be evaluated for performance.
+
+Such as
+
+In SQL,
+
+WHERE true OR username = '123';
+
+    the condition username = '123' 
+    
+will NOT be checked.
+
+Equivalently, in C/C++
+
+if(true OR username == '123')
+
+    the condition username == '123' 
+    
+will NOT be checked.
+    
+Since it takes a little time to check a condition, with this feature, the attacker can check each conditions is evaluated to true or false. 
+    
+    (The computer can measure time accurately.)
+
+)
+
 4. Blind Time-Based SQLi:
 Time-based SQL Injection works by sending a SQL query to the database and forcing it to wait for a predetermined length of time (in seconds) before answering. The response time will tell the attacker if the query result is TRUE or FALSE
     
