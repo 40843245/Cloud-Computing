@@ -1093,6 +1093,29 @@ https://ifip.org/
 153. illegitimate (adj.) 不被法律許可的
 154. degrade the performance (ph.) 降低效能
 155. meanwhile (adv.) 同時
+156. AJAX (abbr.) (stands for Asynchronous JavaScript And XML) (PS.65)
+157. XSS (abbr.) (stands for Cross-site Scripting) (PS.66) 
+158. persistent (adj.) 持續的
+159. cyber-attack (n.) 網路攻擊 (PS.67)
+160. XML signature wrapping attack (ph.) (PS.68) XML 數位標籤包裝攻擊
+161. SOA (abbr.) (stands for Service-Oriented Architecure) (PS.69) 
+162. replay (v.) (n.) 重新演練
+163. XML-related (adj.) XML 相關的
+164. convince (v.) 說服
+165. reveal (v.) 揭露；漏露
+166. bogus (adj.) 假的 (PS.70)
+167. blogger (n.) 部落格
+168. missing (adj.) 遺失的
+169. funds (n.) 資金項目
+170. human factor (ph.) 人為因素
+171. offensive (adj.) 侵略的
+172. defense (n.) 防禦
+173. offensive defense (ph.) 侵略當作防禦
+174. correction (n.) 糾正
+175. likewise (adv.) 同理來說
+176. till (conj.) 直到 (PS.71)
+177. ICLEEDS (abbr.) (stands for <b>I</b>ntelligent <b>Cl</b>oud Based <b>E</b>mail <b>E</b>ncryption and <b>D</b>ecryption <b>S</b>ystems)
+178. 
 
 #### PS.1
 For introudction to cloud model, visit the website.
