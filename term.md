@@ -1119,12 +1119,175 @@ https://ifip.org/
 179. point (n.) 點；觀點
 180. focal point (ph.) 聚焦點
 181. traffic data (PS.73)
-182. password reset attack (ph.) 重設密碼攻擊
+182. password reset attack (ph.) 重設密碼攻擊 (PS.73)
 183. character (n.) 字元；特性
 184. combination (n.) 組合
 185. recover (v.) 回復
 186. content (n.) 內容
 187. recovery (n.) (noun formal of recover)
+188. computational (adj.) 運算的
+189. purchase (v.) 購買 (n.) 購買力 ； 購買的商品 (PS.74)
+190. supercomputer (n.) 超級電腦 (PS.75)
+191. wise (adj.) 明智的
+192. costly (adj.) 代價過高 (PS.76)
+193. in terms of (ph.) 從…方面來看
+194. burden (n.) 負擔 (v.) 負擔
+195. flaw (n.) 瑕疵
+196. pick up (v.) 挑選
+197. word list attack (n.) 字典攻擊 (PS.77)
+198. dictionary attack (n.) (= word list attack)
+199. brute (adj.) 粗暴的
+200. force (n.) 迫使 (v.) 迫使
+201. session (n.) 會議；一小節；對話 (網路上的對話) (PS.78)
+202. identifier (n.) 識別碼 (廣義定義是可以辨別唯一性的屬性)
+203. Brute Forcing Session Identifiers (ph.) 暴力破解 session ID 攻擊手法 (PS.79) 
+204. stateless (adj.) 無狀態的 (without state)
+205. stateless protocol (ph.) (PS.80)
+206. maintain (v.) 維持
+207. request (n.) 請求
+208. cookie (n.) 餅乾 (see web cookies)
+209. web cookie (n.) 瀏覽器記錄 (PS.81)
+210. rent (v.) 租用
+211. magnitude (n.) 大規模的東西
+212. verifier (n.) 認證的東西；驗證商 (PS.82)
+213. communication path (ph.) 交流路徑 (PS.83)
+214. network traffic (n.) 網路阻塞 (PS.84)
+215. travel (v.) 長途旅行；長時間遍歷；長時間發生某件事 (n.) 長途旅行 (PS.85)
+216. each other (adv.) 互相 (指兩方互相) (PS.86)
+217. retransmit (v.) 重新發送 
+218. substitute (v.) 替代；掉包 (PS.87)
+219. in a way that ... (ph.) 達到...的方法 (PS.88)
+220. each another (adv.) 互相 (指三方互相) (PS.86)
+221. split (v.) 切斷
+222. part (n.) 部份
+223. omit (v.) 忽略
+224. attestation (n.) 證明
+225. open (adj.) 開著的 (未關上的)；開放的 (也可以指女生穿著開放的 (這裡意指穿著比較展現資己的外向個性))；(餐廳等)營業中；已開啟的(文件) (其實意思超多) (PS.89)
+226. reboot (v.) 重新開機
+227. without the knowledge of ... (ph.) 在...不知情的情況下
+228. page (n.) 頁面
+229. susceptible (adj.) 可疑的
+230. arbitrary (adj.) 隨機的 (PS.90)
+231. Cloud malware-injection attack (ph.) 雲端惡意植入攻擊 (PS.91)
+232. browse (v.) 瀏覽
+233. FTP (abbr.) (stands for File Transfer Protocol)
+234. disturb (v.) 干擾
+235. The Treasury (n.) 財政部
+236. U.S. Treasury Department (ph.) 美國財政部 (PS.92)
+237. reported (adj.) 聲稱的
+238. shut down (v.) 暫停運行；關機電腦
+239. public-facing site (ph.) (PS.93)
+240. AVG (abbr.) (stands for AntiVirus Guard) (PS.94)
+241. hold (v.) 占用
+242. DKSM (abbr.) (stands for Dynamic Kernel Module Support) (PS.95)
+243. semantic (adj.) 語意的 (PS.96)
+244. gap (n.) 間隙；代溝 (PS.97)
+245. semantic gap (ph.) 語意的代溝 (PS.98)
+246. introduce (v.) 介紹
+247. syntax (n.) 語法；語意 (用語意更精確) (PS.99)
+248. setup (n.) 設定
+249. attract (v.) 吸引
+250. subvert (v.) 顛覆 (PS.100)
+251. misuse (v.) 誤用
+252. existing code (adj.) 目前使用的程式
+253. routine (n.) 例行公事；例行程式 (PS.101)
+254. rebuilt (v.) 重新建造
+255. memory page (n.) 記憶體頁面 (PS.102)
+256. internal traffic (ph.) 內部交流 (PS.103)
+257. external traffic (ph.) 外部交流 (PS.104)
+258. mode (n.) 模式
+259. enforce (v.) 迫使
+260. show (v.) 證明了
+261. neglect (v.) 忽視
+262. employee (n.) 職員 (PS.105)
+263. staff (n.) 員工 (PS.106)
+264. implant (v.) 植入 (PS.107)
+265. guest (n.) 賓客 (在電腦科學中止訪客，意指未使用帳號密碼登入的帳戶的訪客) (PS.108)
+266. work (n.) 工作；完成的結果 (PS.109)
+267. rule (n.) 規定；原則 (PS.110)
+268. practical (adj.) 實際的；用在現實生活的
+269. implementation (n.) 實現；應用
+270. practical implementation (ph.) 用在現實生活的應用
+271. sequential mapping approach (ph.) (PS.111)
+272. side-channel information (n.) 旁敲側擊的資訊 (PS.112)
+273. co-reside (v.) 共同寄住 (PS.113)
+274. timing channel (n.) (PS.114)
+275. exit (v.) 離開；向外走 (PS.115)
+276. be co-located on ... (ph.) 一起被確認位於... (PS.116)
+277. uncovered (adj.) 未被發掘的
+278. cache-based (n.) 快取為基礎的
+279. 14KB Alignment problem (PS.117)
+280. Self-reflection problem (PS.118)
+281. false-positive (adj.) 偽陽性 (PS.119)
+282. Run time modification problem (PS.120)
+283. swap-out (n.) (PS.121)
+284. false-negative (adj.) 偽陰性 (PS.119)
+285. coloring (n.) (PS.122)
+286. dynamic cache coloring (ph.) (PS.123)
+287. SilverLine (n.) (PS.124)
+288. audit (n.) 稽查
+289. competence (n.) (PS.125)
+290. flow control (n.) 流程控制 (PS.126)
+291. in order to + v. (conj.) 為了...的目的
+292. infer (v.) 推斷 
+293. HMM (abbr.) (stands for <b>h</b>idden <b>M</b>arkov <b>m</b>odel) (PS.127)
+294. a search problem (ph.) 待研究的議題
+295. Boolean reasoning (ph.) (PS.128)
+296. unclear (adj.) 不清不楚的
+297. disclosure (n.) 公佈；被公佈的事實 (PS.129)
+298. memory disclosure (ph.) (PS.130)
+299. reduce (v.) 減少
+300. deduplication (n.) 去除複製品 (PS.131)
+301. memory deduplication (ph.) (PS.132)
+302. write access time (ph.) 寫入和讀取時間 (PS.133)
+303. reduplicate (v.) 重新複製 (PS.134)
+304. reduplicated pages (ph.) (PS.135)
+305. regular (adj.) (PS.136)
+306. regular pages (ph.) (PS.137)
+307. COW (abbr.) (stands for Copy-On-Write) (PS.138)
+308. VM rollback attack (ph.) (PS.139)
+309. rollback (n.) 降級
+310. roll back (v.) 降級
+311. previous (adj.) 先前的
+312. re-expose (v.) 重新暴露
+313. logs (n.) 登入檔 (PS.140)
+314. suspend (n.) 暫延
+315. resume (n.) 繼續開始 (更精確的說是從暫停處繼續執行)
+316. disable (v.) 禁能 (致能的相反)
+317. hybrid (adj.) 混和的 (PS.141)
+318. delay measurement (ph.) 延遲測量 (PS.142)
+319. ICMP 
+320. time-lag
+321. counter 
+322. file system rollback attacks
+323. Stepping-stone attack
+324. patches
+325. intermediary 
+326. packets 
+327. botnet
+328. trace 
+329. botmater
+330. Pebble trace scheme
+331. botmaster
+332. deploying 
+333. router updates
+334. interfere 
+335. Return-oriented programming attack (ph.)
+336. signify 
+337. sophisticated 
+338. return-oriented
+339. privilege
+340. field
+341. privileged field
+342. hypervisor code
+343. non-control data
+344. Xen Hypervisor 
+345. preventive 
+346. defensive 
+347. mechanism 
+348. defensive mechanism 
+
+
 
 #### PS.1
 For introudction to cloud model, visit the website.
