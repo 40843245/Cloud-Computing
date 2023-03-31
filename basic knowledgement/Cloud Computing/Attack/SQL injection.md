@@ -85,10 +85,16 @@ Since it takes a little time to check a condition, with this feature, the attack
     
     (The computer can measure time accurately.)
 
+The hint can also be applied to 4.
+
 )
 
 4. Blind Time-Based SQLi:
-Time-based SQL Injection works by sending a SQL query to the database and forcing it to wait for a predetermined length of time (in seconds) before answering. The response time will tell the attacker if the query result is TRUE or FALSE
+Time-based SQL Injection works by sending a SQL query to the database and forcing it to wait for a predetermined length of time (in seconds) before answering. The response time will tell the attacker if the query result is TRUE or FALSE.
+
+(Hint: 
+Similar to hint on 3.
+)
     
 ## Prevention
 
