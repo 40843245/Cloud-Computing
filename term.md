@@ -1281,12 +1281,12 @@ https://ifip.org/
 341. privileged field (ph.) 隱私欄位
 342. hypervisor code (n.)
 343. non-control data (ph.) 不可控制的資料
-344. Xen Hypervisor 
+344. Xen Hypervisor (ph.) (PS.153)
 345. preventive (adj.) 預防性的
 346. defensive (adj.) 防禦性的
 347. mechanism (n.) 機械技術
 348. defensive mechanism (ph.) 防禦技術
-349. IDS (abbr.) (stands for Intrusion Detection System)
+349. IDS (abbr.) (stands for Intrusion Detection System) (PS.154)
 
 
 
@@ -1723,6 +1723,8 @@ Reconstruct and Drop methods are used to decide which packet isaffected and shou
 #### PS.111
 
 #### PS.112
+https://en.wikipedia.org/wiki/Side-channel_attack
+
 #### PS.113
 #### PS.114
 #### PS.115
@@ -1750,7 +1752,22 @@ Reconstruct and Drop methods are used to decide which packet isaffected and shou
 #### PS.136
 #### PS.137
 #### PS.138
+COW stands for Copy On Write.
+It is a resource-management technique. 
+It shares same memory space for many variables using initialization with equal assignment.
+
+Consider the following piece of C++ code.
+
+    string s1="Hello";
+    string s2=s1;            // s1 and s2 use same buffer.
+    s2=s2+" World.";         // s2 still uses the old buffer, but the new buffer is used when reassignning of variable s2.
+
+
+https://en.wikipedia.org/wiki/Copy-on-write
+
 #### PS.139
+https://ieeexplore.ieee.org/document/6264690
+
 #### PS.140
 #### PS.141
 #### PS.142
@@ -1759,19 +1776,41 @@ Reconstruct and Drop methods are used to decide which packet isaffected and shou
 https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol
 
 #### PS.144
+
 #### PS.145
+https://en.wikipedia.org/wiki/Patch_(computing)
+
 #### PS.146
+https://en.wikipedia.org/wiki/Intermediary
+
 #### PS.147
 #### PS.148
+https://www.fortinet.com/resources/cyberglossary/what-is-botnet
+
 #### PS.149
+To play the botmaster, try the website.
+https://botsender.id/
+
 #### PS.150
+https://ieeexplore.ieee.org/document/4534481/
+
 #### PS.151
 https://en.wikipedia.org/wiki/Router_(computing)
 
 #### PS.152
 https://en.wikipedia.org/wiki/Return-oriented_programming
+
 #### PS.153
+Xen Hypervisor is an open source hypervisor.
+
+For more details, visit the following website.
+
+https://en.wikipedia.org/wiki/Xen
+
 #### PS.154
+
+https://en.wikipedia.org/wiki/Intrusion_detection_system
+
 #### PS.155
 #### PS.156
 #### PS.157
@@ -1805,20 +1844,16 @@ https://en.wikipedia.org/wiki/Return-oriented_programming
 #### PS.148
 #### PS.148
 #### PS.148
-#### PS.148#### PS.148
 #### PS.148
 #### PS.148
 #### PS.148
 #### PS.148
 #### PS.148
 #### PS.148
-#### PS.148#### PS.148
 #### PS.148
 #### PS.148
-v
 #### PS.148
 #### PS.148
-v
 #### PS.148
 #### PS.148
 v
@@ -1828,27 +1863,12 @@ v
 #### PS.148
 #### PS.148
 v
-v
-v
-v
-v
-v
-v
-v
-v
-v
+#### PS.148
 #### PS.148
 v
-v
-v
+#### PS.148
 #### PS.148
 v
-v
-v
-#### PS.148
-v
-v
-#### PS.148
 v
 v
 v
@@ -1860,11 +1880,33 @@ v
 v
 #### PS.148
 v
+v
+v
 #### PS.148
 v
 v
 v
-v#### PS.148#### PS.148
+#### PS.148
+v
+v
+#### PS.148
+v
+v
+v
+v
+v
+v
+v
+v
+v
+#### PS.148
+v
+#### PS.148
+v
+v
+v
+#### PS.148
+#### PS.148
 v
 v#### PS.148
 v
