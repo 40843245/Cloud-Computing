@@ -1270,22 +1270,23 @@ https://ifip.org/
 330. Pebble trace scheme (PS.150) 
 331. deploy (v.) 運用
 332. router (n.) 路由器 (PS.151)
-333. router updates 
-334. interfere 
-335. Return-oriented programming attack (ph.)
-336. signify 
-337. sophisticated 
+333. router updates (ph.) 路由器升級
+334. interfere (v.) 干擾
+335. Return-oriented programming attack (ph.) (also called Code-reuse attack) (PS.152)
+336. signify (v.) 象徵化
+337. sophisticated (adj.) 有智慧的
 338. return-oriented
 339. privilege
-340. field
-341. privileged field
-342. hypervisor code
-343. non-control data
+340. field (n.) 領域；欄位
+341. privileged field (ph.) 隱私欄位
+342. hypervisor code (n.)
+343. non-control data (ph.) 不可控制的資料
 344. Xen Hypervisor 
-345. preventive 
-346. defensive 
-347. mechanism 
-348. defensive mechanism 
+345. preventive (adj.) 預防性的
+346. defensive (adj.) 防禦性的
+347. mechanism (n.) 機械技術
+348. defensive mechanism (ph.) 防禦技術
+349. IDS (abbr.) (stands for Intrusion Detection System)
 
 
 
@@ -1768,6 +1769,7 @@ https://en.wikipedia.org/wiki/Internet_Control_Message_Protocol
 https://en.wikipedia.org/wiki/Router_(computing)
 
 #### PS.152
+https://en.wikipedia.org/wiki/Return-oriented_programming
 #### PS.153
 #### PS.154
 #### PS.155
