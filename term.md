@@ -1275,8 +1275,8 @@ https://ifip.org/
 335. Return-oriented programming attack (ph.) (also called Code-reuse attack) (PS.152)
 336. signify (v.) 象徵化
 337. sophisticated (adj.) 有智慧的
-338. return-oriented
-339. privilege
+338. return-oriented (adj.) 以return為導向的 (有許多人應該有疑惑，仔細閱讀完 PS.152 附得網址即可理解)(PS.152)
+339. privilege (n.) 隱私權
 340. field (n.) 領域；欄位
 341. privileged field (ph.) 隱私欄位
 342. hypervisor code (n.)
@@ -1287,8 +1287,12 @@ https://ifip.org/
 347. mechanism (n.) 機械技術
 348. defensive mechanism (ph.) 防禦技術
 349. IDS (abbr.) (stands for Intrusion Detection System) (PS.154)
-
-
+350. HIDS (abbr.) (stands for Host based intrusion detection systems) (PS.155)
+351. inbound (adj.) 進入的
+352. outbound (adj.) 出去的
+353. side (n.) 邊；端 (PS.156)
+354. mature (v.) (n.) (See PS.157) (PS.157)
+355. vendor lock-in
 
 #### PS.1
 For introudction to cloud model, visit the website.
@@ -1745,9 +1749,24 @@ https://en.wikipedia.org/wiki/Side-channel_attack
 #### PS.129
 #### PS.130
 #### PS.131
+The word deduplication refers the removal of deuplication.
+
+Split the word.
+
+    de- : away    
+    duplicate (v) 複製
+    
 #### PS.132
 #### PS.133
 #### PS.134
+The word reduplicate refers duplicate it again.
+
+Split the word.
+
+    re- : again or against
+    duplicate (v) 複製
+
+
 #### PS.135
 #### PS.136
 #### PS.137
@@ -1812,8 +1831,25 @@ https://en.wikipedia.org/wiki/Xen
 https://en.wikipedia.org/wiki/Intrusion_detection_system
 
 #### PS.155
+
+https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system
+
 #### PS.156
+To have more understand of the word side.
+
+I will offer some examples.
+
+side server-side messsage refers the message from server.
+
 #### PS.157
+
+The word mature of verbal form refers
+    
+    to become more developed mentally and emotionally and behave in a responsible way 
+    (from Cambridge Dictionary)
+    
+![image](https://user-images.githubusercontent.com/75050655/231043046-3d2b7bdf-8730-44db-b711-7e62f11abafa.png)
+
 #### PS.148
 #### PS.148
 #### PS.148
@@ -1965,3 +2001,20 @@ v
 #### PS.148
 #### PS.148
 #### PS.148
+
+### Part 7 (Expanded_Top_Ten_Big_Data_Security_and_Privacy_Challenges.pdf)
+1. depict (v.) 描述；說明
+2. ecosystem (n.) 生態系
+3. composable (adj.) (See PS.1) (PS.1)
+4. centric (adj.) 集中的
+5. grandular (adj.) 顆粒狀的
+6. grandular data access (ph.) 資料存取的單位
+7. organize (v.) 統整
+8. aspect (n.) 觀點
+9. reactive
+10. provenance
+
+#### PS.1
+
+https://en.wikipedia.org/wiki/Composability
+
