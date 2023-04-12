@@ -2025,7 +2025,10 @@ v
 20. inter-cloud  (adj.) 內部雲 (PS.4)
 21. methodology (n.) 方法學；學問
 22. composition (n.) 曲子；作品 
-23. commodity (n.) 可以被賣的商品 (PS.5)
+23. commodity (n.) 可以被交易的商品 (PS.5)
+24. tailor (n.) 修改衣服的職業；修改衣服的人 (v.) 為了滿足某人需求而調整東西 (客製化調整東西) (PS.6)
+25. firewall (n.) 防火牆 (v.) 被防火牆阻擋
+26. be semi-isolated (v.) 半隔離的 (PS.7)
 
 #### PS.1
 
@@ -2047,7 +2050,19 @@ https://en.wikipedia.org/wiki/Byte#Multiple-byte_units
 #### PS.4
 https://www.teradata.com/Trends/Cloud/Intercloud
 
-### PS.5
+#### PS.5
 It refers to a substance or product that can be traded, bought, or sold.
 
 https://dictionary.cambridge.org/dictionary/english/commodity
+
+#### PS.6
+https://dictionary.cambridge.org/dictionary/english/tailor
+
+#### PS.7
+    
+    semi- : half
+    isolate : (v.) 隔離
+    
+    For more details of the word isolate.
+    
+    https://dictionary.cambridge.org/dictionary/english/isolate
