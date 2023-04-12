@@ -2032,6 +2032,10 @@ v
 27. anomaly (n.) 異常 (PS.8)
 28. outlier (n.) (See PS.9) (PS.9)
 29. retrofit (n.) 升級改造 (v.) 升級改造 (PS.10)
+30. practitioner (n.) 執業人員
+31. working (adj.) 工作方面的
+32. CSA (abbr.) (stands for Cloud Security Alliance) (PS.11)
+33. arrive (v.) 到達(某個地方) ; 達到(某個目標)
 
 #### PS.1
 
@@ -2099,6 +2103,7 @@ To have more understand how to split this word visit the following website.
 
 https://tw.wordbranch.com/dictionary/retrofit/
 
-
+#### PS.11
+https://cloudsecurityalliance.org/
 
 
