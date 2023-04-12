@@ -2011,10 +2011,19 @@ v
 6. grandular data access (ph.) 資料存取的單位
 7. organize (v.) 統整
 8. aspect (n.) 觀點
-9. reactive
-10. provenance
+9. reactive ()
+10. provenance (n.) 原處 (PS.2)
+11. massive (adj.) 許多的
+12. amount (n.) 數量
+13. digital (adj.) 數位的
+14. generate (v.) 產生
 
 #### PS.1
 
 https://en.wikipedia.org/wiki/Composability
+
+#### PS.2
+The word provenane refers to the place of origin of something from the website.
+
+https://dictionary.cambridge.org/dictionary/english/provenance
 
