@@ -2029,6 +2029,9 @@ v
 24. tailor (n.) 修改衣服的職業；修改衣服的人 (v.) 為了滿足某人需求而調整東西 (客製化調整東西) (PS.6)
 25. firewall (n.) 防火牆 (v.) 被防火牆阻擋
 26. be semi-isolated (v.) 半隔離的 (PS.7)
+27. anomaly (n.) 異常 (PS.8)
+28. outlier (n.) (See PS.9) (PS.9)
+29. retrofit (n.) 升級改造 (v.) 升級改造 (PS.10)
 
 #### PS.1
 
@@ -2066,3 +2069,36 @@ https://dictionary.cambridge.org/dictionary/english/tailor
     For more details of the word isolate.
     
     https://dictionary.cambridge.org/dictionary/english/isolate
+
+#### PS.8
+
+    a- : against (from Greek)
+    normal : (adj.) 常見的；尋常的
+    
+#### PS.9
+For more details, visit the following website.
+
+https://en.wikipedia.org/wiki/Outlier
+
+#### PS.10
+It refers to provide a machine with a part, or a place with equipment, that it did not originally have when it was built
+
+It can also refers to an occasion when a machine or place is retrofitted.
+
+    retro- : backward
+    fit (v.) 使適合 (n.) 適合 (adj.) 合適的
+
+![image](https://user-images.githubusercontent.com/75050655/231434514-b81d6e1d-ce6f-4a4c-983c-5571fea107f4.png)
+
+    
+Visit the following website.
+ 
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/retrofit
+
+To have more understand how to split this word visit the following website.
+
+https://tw.wordbranch.com/dictionary/retrofit/
+
+
+
+
