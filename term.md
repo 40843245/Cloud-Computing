@@ -2017,6 +2017,10 @@ v
 12. amount (n.) 數量
 13. digital (adj.) 數位的
 14. generate (v.) 產生
+15. expect (v.) 預期
+16. be expected to + v. (ph.) 被預期可以v.
+17. double (adj.) 雙倍的 (n.) 雙倍 (v.) 雙倍
+18. exabyte (n.) 百京元祖 (PS.3)
 
 #### PS.1
 
@@ -2026,4 +2030,12 @@ https://en.wikipedia.org/wiki/Composability
 The word provenane refers to the place of origin of something from the website.
 
 https://dictionary.cambridge.org/dictionary/english/provenance
+
+#### PS.3
+
+1 exabyte = 1000 petabytes = 2^50 bytes
+
+For more details, see the following website.
+
+https://en.wikipedia.org/wiki/Byte#Multiple-byte_units
 
