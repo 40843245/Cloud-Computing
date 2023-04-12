@@ -2021,6 +2021,8 @@ v
 16. be expected to + v. (ph.) 被預期可以v.
 17. double (adj.) 雙倍的 (n.) 雙倍 (v.) 雙倍
 18. exabyte (n.) 百京元祖 (PS.3)
+19. magnify (v.) 放大
+20. inter-cloud  (adj.) 內部雲 (PS.4)
 
 #### PS.1
 
@@ -2039,3 +2041,5 @@ For more details, see the following website.
 
 https://en.wikipedia.org/wiki/Byte#Multiple-byte_units
 
+#### PS.4
+https://www.teradata.com/Trends/Cloud/Intercloud
