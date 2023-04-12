@@ -2023,6 +2023,9 @@ v
 18. exabyte (n.) 百京元祖 (PS.3)
 19. magnify (v.) 放大
 20. inter-cloud  (adj.) 內部雲 (PS.4)
+21. methodology (n.) 方法學；學問
+22. composition (n.) 曲子；作品 
+23. commodity (n.) 可以被賣的商品 (PS.5)
 
 #### PS.1
 
@@ -2043,3 +2046,8 @@ https://en.wikipedia.org/wiki/Byte#Multiple-byte_units
 
 #### PS.4
 https://www.teradata.com/Trends/Cloud/Intercloud
+
+### PS.5
+It refers to a substance or product that can be traded, bought, or sold.
+
+https://dictionary.cambridge.org/dictionary/english/commodity
