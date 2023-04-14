@@ -2074,6 +2074,11 @@ v
 69. historical analytics (ph.) 舊資料分析學 (PS.27)
 70. threat tree (n.) 威脅樹 (PS.28)
 71. toughen (v.) 更困難  (PS.29)
+72. OLTP (abbr.) (stands for Online Transaction Processing) (PS.30)
+73. OLAP (abbr.) (stands for Online Analytical Processing) (PS.31)
+74. unstructured (adj.) 未建構的
+75. ease (v.) 緩解 (n.) 緩解
+76. loophole (n.) (PS.32)
 
 #### PS.1
 
@@ -2254,3 +2259,22 @@ https://github.com/40843245/Cloud-Computing/blob/main/analytics/diagram/tree/att
 toughen = make someone or something stronger or more tough.
 
 https://dictionary.cambridge.org/dictionary/english/toughen
+
+#### PS.30
+OLTP
+https://en.wikipedia.org/wiki/Online_transaction_processing
+
+#### PS.31
+OLAP
+https://en.wikipedia.org/wiki/Online_analytical_processing
+
+#### PS.32
+Loophole refers to an ambiguity or inadequacy in a system.
+
+From the website.
+https://en.wikipedia.org/wiki/Loophole
+
+It also refers a failure to include something in an agreement or law, which allows someone to do something illegal or to avoid doing something.
+
+From the website.
+https://dictionary.cambridge.org/dictionary/english/loophole?q=Loophole
