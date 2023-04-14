@@ -2071,7 +2071,9 @@ v
 66. accommodate  (v.) 調適
 67. static (adj.) 靜態的 (PS.26)
 68. predictive analytics (ph.) 預測分析學 (PS.27)
-69. historical analytics (ph.) 舊資料分析學 (PS.28)
+69. historical analytics (ph.) 舊資料分析學 (PS.27)
+70. threat tree (n.) 威脅樹 (PS.28)
+71. toughen (v.) 更困難  (PS.29)
 
 #### PS.1
 
@@ -2239,3 +2241,16 @@ https://github.com/40843245/Cloud-Computing/tree/main/analytics/analytical%20mod
 For historical analysis.
 
 https://github.com/40843245/Cloud-Computing/tree/main/analytics/analytical%20model
+
+## PS.28
+Threat trees are also called attack trees.
+
+For more details, see my note in the GitHub.
+
+https://github.com/40843245/Cloud-Computing/blob/main/analytics/diagram/tree/attack%20tree.md
+
+#### PS.29
+
+toughen = make someone or something stronger or more tough.
+
+https://dictionary.cambridge.org/dictionary/english/toughen
