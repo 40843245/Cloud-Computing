@@ -2011,7 +2011,7 @@ v
 6. grandular data access (ph.) 資料存取的單位
 7. organize (v.) 統整
 8. aspect (n.) 觀點
-9. reactive ()
+9. reactive (adj.) 即時反應的
 10. provenance (n.) 原處 (PS.2)
 11. massive (adj.) 許多的
 12. amount (n.) 數量
@@ -2036,6 +2036,40 @@ v
 31. working (adj.) 工作方面的
 32. CSA (abbr.) (stands for Cloud Security Alliance) (PS.11)
 33. arrive (v.) 到達(某個地方) ; 達到(某個目標)
+34. Untrusted mappers (ph.)
+35. MapReduce (n.) (See PS.12)
+36. incorrect (adj.) 不正確的
+37. in turn (ph.) (PS.13)
+38. aggregate (n.) 匯集物 (將許多東西匯集在一起的物品)
+39. scientific (adj.) 科學方面的
+40. financial (adj.) 財務方面的
+41. retailer (n.) 網路販賣商；零售商 (PS.14)
+42. advertising (n.) 廣告投放
+43. customer-segmenting (n.) 消費者區隔
+44. undermine (v.) 損害(某人的權益)
+45. malfunction (n.) 惡意的功能；異常的功能 (v.) 異常運作 (PS.15)
+46. nodes (n.) 節點
+47. faulty (adj.) 錯誤的
+48. profile (n.) 個人簡短敘述(指人)；個人歷程(指人)；程式運行過程記錄 (指應用程式或程式) (v.)追縱 (=trace) (PS.16)
+49. tap (v.) 竊聽 (其實還有更多意思，see PS.17) (PS.17)
+50. rogue (PS.18)
+51. conformance (PS.19)
+52. predefined (adj.)  預先定義好的
+53. MACensures access (PS.20)
+54. Airavat (n.) (It is a country see PS.21) (PS.21)
+55. SELinux (PS.22)
+56. de-identification (n.) 去識別化
+57. degree (There are lots of meanings see PS.23) (PS.23)   
+58. tackle (v.) 花心力和時間去處理
+59. widespread (adj.) 廣為人知的
+60. penalty (n.) 代價;懲罰
+61. impose (v.) 迫使某人或某東西去做某件事
+62. differential (adj.) 根據差異的 (PS.24) 
+63. stage (n.) 階段
+64. pose (v.) 引起(困難)
+65. RDB (abbr.)(stands for Related Database) (PS.25)
+66. accommodate  (v.) 調適
+67. static (adj.) 靜態的 (PS.26)
 
 #### PS.1
 
@@ -2106,4 +2140,90 @@ https://tw.wordbranch.com/dictionary/retrofit/
 #### PS.11
 https://cloudsecurityalliance.org/
 
+
+#### PS.12
+Mapreduce is a programming language model.
+
+https://en.wikipedia.org/wiki/MapReduce
+
+#### PS.13
+There are many different meanings.
+1. because of that
+2. one after the other, in order.
+
+Refers the website.
+
+https://dictionary.cambridge.org/dictionary/english/in-turn
+
+#### PS.14
+To fully understand the word retail, understand the word reatil first.
+
+https://dictionary.cambridge.org/dictionary/english/retail
+
+#### PS.15
+malfunction
+    
+    mal- : malicious
+    function (n.) 功能；函式
+#### PS.16
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/profile
+#### PS.17
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/tap
+
+#### PS.18
+
+It refers to behaving in ways that are not expected or not normal, often in a way that causes damage.
+
+It also can refer to a person who behaves badly but who you still like. (Archived)
+
+It also can refer to a dishonest or bad man.
+
+#### PS.19
+Comformance is equivalent to conformity.
+
+https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/conformance
+
+#### PS.20
+#### PS.21
+https://en.wikipedia.org/wiki/Airavata
+#### PS.22
+SELinux stands for Security-Enhanced Linux.
+
+It is a kind of Linux kernel module.
+
+https://en.wikipedia.org/wiki/Security-Enhanced_Linux
+
+#### PS.23
+
+https://dictionary.cambridge.org/dictionary/english/degree
+
+#### PS.24
+There are two meanings.
+1. As a noun form, it refers to an amount of difference between things that are compared.
+2. As an adjective form, it refers to based on difference.
+
+To have more understand these, take some examples.
+
+E.g.1
+
+The sentence
+
+      We have a differential salary structure based on employees' experience.
+
+tell us that
+
+      We will according to employee's experience to offer different salary.
+    
+
+https://dictionary.cambridge.org/dictionary/english/differential
+
+#### PS.25
+https://en.wikipedia.org/wiki/Relational_database
+
+#### PS.26
+static is opposite of dynamic.
+
+Here, the phrase static data have similar concept of the phrase static variable in programming language.
+
+![image](https://user-images.githubusercontent.com/75050655/231945471-a3aeefc4-1b3e-46e4-a51e-a3f747f8882d.png)
 
