@@ -2081,6 +2081,7 @@ v
 76. loophole (n.) (see PS.32) (PS.32)
 77. outstanding (adj.) 傑出的 (PS.33)
 78. AaaS (abbr.) (stands for Analytic as a Service) (PS.34)
+79. respective (adj.) 與某個人或某件事有關的　(PS.35)
 
 #### PS.1
 
@@ -2285,5 +2286,12 @@ https://dictionary.cambridge.org/dictionary/english/loophole?q=Loophole
 outstanding refers someone is very excellent or something is very famous.
 
 #### PS.34
+AaaS
 
 https://www.sisense.com/glossary/analytics-as-a-service-aaas/
+
+#### PS.35
+To exactly say, the word respective refers to relating or belonging to each of the separate people or things you have just mentioned.
+
+From the website.
+https://dictionary.cambridge.org/dictionary/english/respective
