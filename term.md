@@ -2231,3 +2231,11 @@ Here, the phrase static data have similar concept of the phrase static variable 
 
 #### PS.27
 See my notes in GitHub.
+
+For predictive analytics.
+
+https://github.com/40843245/Cloud-Computing/tree/main/analytics/analytical%20model
+
+For historical analysis.
+
+https://github.com/40843245/Cloud-Computing/tree/main/analytics/analytical%20model
