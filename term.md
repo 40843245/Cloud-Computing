@@ -2082,6 +2082,7 @@ v
 77. outstanding (adj.) 傑出的 (PS.33)
 78. AaaS (abbr.) (stands for Analytic as a Service) (PS.34)
 79. respective (adj.) 與某個人或某件事有關的　(PS.35)
+80. virtually (adv.) 幾乎
 
 #### PS.1
 
@@ -2295,3 +2296,9 @@ To exactly say, the word respective refers to relating or belonging to each of t
 
 From the website.
 https://dictionary.cambridge.org/dictionary/english/respective
+
+#### PS.36
+virtually is equivalent to almost.
+
+From the website.
+https://dictionary.cambridge.org/dictionary/english/virtually
