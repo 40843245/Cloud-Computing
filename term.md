@@ -2070,6 +2070,8 @@ v
 65. RDB (abbr.)(stands for Related Database) (PS.25)
 66. accommodate  (v.) 調適
 67. static (adj.) 靜態的 (PS.26)
+68. predictive analytics (ph.) 預測分析學 (PS.27)
+69. historical analytics (ph.) 舊資料分析學 (PS.28)
 
 #### PS.1
 
@@ -2227,3 +2229,5 @@ Here, the phrase static data have similar concept of the phrase static variable 
 
 ![image](https://user-images.githubusercontent.com/75050655/231945471-a3aeefc4-1b3e-46e4-a51e-a3f747f8882d.png)
 
+#### PS.27
+See my notes in GitHub.
