@@ -2078,7 +2078,9 @@ v
 73. OLAP (abbr.) (stands for Online Analytical Processing) (PS.31)
 74. unstructured (adj.) 未建構的
 75. ease (v.) 緩解 (n.) 緩解
-76. loophole (n.) (PS.32)
+76. loophole (n.) (see PS.32) (PS.32)
+77. outstanding (adj.) 傑出的 (PS.33)
+78. AaaS (abbr.) (stands for Analytic as a Service) (PS.34)
 
 #### PS.1
 
@@ -2278,3 +2280,10 @@ It also refers a failure to include something in an agreement or law, which allo
 
 From the website.
 https://dictionary.cambridge.org/dictionary/english/loophole?q=Loophole
+
+#### PS.33
+outstanding refers someone is very excellent or something is very famous.
+
+#### PS.34
+
+https://www.sisense.com/glossary/analytics-as-a-service-aaas/
