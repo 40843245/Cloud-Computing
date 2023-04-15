@@ -2083,6 +2083,7 @@ v
 78. AaaS (abbr.) (stands for Analytic as a Service) (PS.34)
 79. respective (adj.) 與某個人或某件事有關的　(PS.35)
 80. virtually (adv.) 幾乎
+81. ad-hoc (adj.) 必要的 (= neccessary)
 
 #### PS.1
 
