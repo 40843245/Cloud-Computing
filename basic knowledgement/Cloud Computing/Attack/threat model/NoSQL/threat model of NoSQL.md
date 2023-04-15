@@ -23,6 +23,9 @@ Across the board, NoSQL uses weak authentication techniques and weak password st
 
 This exposes NoSQL to replay attacks and password brute force attacks, resulting in information leakage. 
 
+Additionally, NoSQL uses HTTP Basic-based authentication or Digest-based authentication, which are prone to replay attack 
+
+or man-in-the-middle attack.
 
 ## Inefficient Authorization Mechanisms
 ## Susceptibility to Injection Attacks
