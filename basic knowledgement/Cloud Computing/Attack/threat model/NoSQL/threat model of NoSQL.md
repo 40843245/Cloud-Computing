@@ -27,7 +27,24 @@ Additionally, NoSQL uses HTTP Basic-based authentication or Digest-based authent
 
 or man-in-the-middle attack.
 
+REST, which is another preferred communication protocol, is also based on HTTP and is prone to cross-site scripting, 
+
+cross-site request forgery, injection attacks, etc.
+
+Above all, NoSQL does not support integrating third-party pluggable modules to enforce authentication. 
+
 ## Inefficient Authorization Mechanisms
+
+Authorization techniques differ from one NoSQL solution to another. 
+
+Most of the popular solutions apply authorization at higher layers rather than enforcing authorization at lower layers. 
+
+More specifically, authorization is enforced on a per-database level rather than at the collection level.  
+
+There is no role-based access control (RBAC) mechanism built into the architecture because 
+
+ it is impossible to define user roles and security groups with an RBAC mechanism.
+
 ## Susceptibility to Injection Attacks
 ## Lack of Consistency
 ## Insider Attacks
