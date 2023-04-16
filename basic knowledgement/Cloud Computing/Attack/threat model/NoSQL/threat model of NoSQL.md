@@ -59,4 +59,17 @@ SQL suffers from SQL injection while NoSQL suffers not only SQL injection but al
 , view injection, REST injection, GQL injection, schema injection etc. 
 
 ## Lack of Consistency
+
+The inability to simultaneously enforce all three elements of the CAP theorem 
+
+(consistency,   availability,andpartition   tolerance)   while   in  distributed  mode  undermines  the trustworthiness  of  the  churned  results. 
+
+As a result, users are not guaranteed consistent results at any given time, 
+
+as each participating node may not be entirely synchronized with the node holding the latest image.  
+
+Current  hashing  algorithms  entrusted to replicate data across the cluster nodes crumple in the event of a single node failure, 
+
+resulting in load imbalance among the cluster nodes.
+
 ## Insider Attacks
