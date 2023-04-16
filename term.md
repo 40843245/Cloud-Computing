@@ -2084,6 +2084,19 @@ v
 79. respective (adj.) 與某個人或某件事有關的　(PS.35)
 80. virtually (adv.) 幾乎
 81. ad-hoc (adj.) 必要的 (= neccessary)
+82. appropriate (adj.) 適當的 (= proper)
+83. on-the-fly (adj.) (see PS.36 for english definition) (PS.36)
+84. fuzzing (adj.) 模糊的
+85. engage (v.) 安排
+86. establish (v.) 建立
+87. pipe (n.) 油管 (v.) 用管道運輸
+88. object-level (adj.) 物件階層
+89. Kerberos authentication (term.) Kerbernos 認證 (PS.37)
+90. impersonation (n.) 冒充他人名義
+91. RPC (abbr.) (stands for Remote Procedure Call) (PS.38)
+92. membership (n.) 成員關係
+93. Hadoop (term.) (It is a special term, see PS.39) (PS.39)
+94. Hadoopmaster (term.) (It is the parameter master in Hadoop)
 
 #### PS.1
 
@@ -2303,3 +2316,33 @@ virtually is equivalent to almost.
 
 From the website.
 https://dictionary.cambridge.org/dictionary/english/virtually
+
+
+#### PS.37
+For Kerberos authencation, visit my notes in GitHub.
+
+https://github.com/40843245/Cloud-Computing/blob/main/basic%20knowledgement/Cloud%20Computing/authencation/kerberos%20authentication.md
+
+#### PS.38
+
+RPC stands for Remote Procedure Call.
+
+It is a RPC iff the device performs an operation to remote device.
+
+For more details, visit the following website or my OS note in GitHub.
+
+wiki:
+
+https://en.wikipedia.org/wiki/Remote_procedure_call
+
+my note:
+
+https://github.com/40843245/OS/blob/main/RPC.docx
+
+
+#### PS.39
+Apache Hadoop is an open source utility.
+
+For more details, visit the following website.
+
+https://en.wikipedia.org/wiki/Apache_Hadoop
