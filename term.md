@@ -2211,6 +2211,17 @@ Comformance is equivalent to conformity.
 https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/conformance
 
 #### PS.20
+
+The articles mentions the word <b>MACensures address</b>. 
+
+![image](https://user-images.githubusercontent.com/75050655/232262277-9fcd54ca-a6d6-4fb2-aab5-921bd04613fb.png)
+
+But, I did NOT found any data about <b>MACensures address</b>. 
+
+Thus, I think it should be <b>MAC ensures address</b>.
+
+
+
 #### PS.21
 https://en.wikipedia.org/wiki/Airavata
 #### PS.22
@@ -2226,7 +2237,9 @@ https://dictionary.cambridge.org/dictionary/english/degree
 
 #### PS.24
 There are two meanings.
+
 1. As a noun form, it refers to an amount of difference between things that are compared.
+
 2. As an adjective form, it refers to based on difference.
 
 To have more understand these, take some examples.
