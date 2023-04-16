@@ -43,7 +43,7 @@ More specifically, authorization is enforced on a per-database level rather than
 
 There is no role-based access control (RBAC) mechanism built into the architecture because 
 
- it is impossible to define user roles and security groups with an RBAC mechanism.
+it is impossible to define user roles and security groups with an RBAC mechanism.
 
 ## Susceptibility to Injection Attacks
 To have more understanding of Injection Attacks,
@@ -73,3 +73,15 @@ Current  hashing  algorithms  entrusted to replicate data across the cluster nod
 resulting in load imbalance among the cluster nodes.
 
 ## Insider Attacks
+Lenient security mechanisms can be leveraged to achieve insider attacks. 
+
+These attacks could remain unnoticed because of poor logging and log analysis methods, 
+
+along with other rudimentary security mechanisms. 
+
+As critical data is stowed away under a thin security layer,
+
+it is difficult to ensure that the data owners maintain control.
+ 
+## Ref
+https://ulearn.nfu.edu.tw/course/10459/learning-activity/full-screen#/42890
