@@ -46,5 +46,17 @@ There is no role-based access control (RBAC) mechanism built into the architectu
  it is impossible to define user roles and security groups with an RBAC mechanism.
 
 ## Susceptibility to Injection Attacks
+To have more understanding of Injection Attacks,
+
+recall that SQL commands consist of strings. i.e. Every SQL command is stored as a string.
+
+In my previous note (published in GitHub), the topic about SQL injection have been disccussed.
+
+(If you don't know what it is, you can see my previous note.)
+
+SQL suffers from SQL injection while NoSQL suffers not only SQL injection but also JSON injection, array injection
+
+, view injection, REST injection, GQL injection, schema injection etc. 
+
 ## Lack of Consistency
 ## Insider Attacks
